@@ -1,5 +1,6 @@
 # Portfolio
 This is a summary of projects that are most relevant to what I currently offer as a practitioner.
+
 ## Current Projects
 ### Trans Drama Ensemble
 A series of monthly 2-hr workshops in which I teach a different topic from the world of theatre. 2024 sessions run from March to July, and cover: Voice, Movement, Props, Light, Verbatim.
@@ -12,9 +13,9 @@ Currently on hold until bookings for September onwards open.
 ### Some Other Mirror
 A continuously developing solo show about transitioning, and shaping one's masculine identity, which started development as a Zoom theatre show, made for university coursework, and is currently a touring, in-the-round, live theatre show with multimedia and interactive elements.
 
-Watch Some Other Mirror, Zoom, 2021
-Watch Some Other Mirror, Nonsuch Studios, 2022
-Read about Some Other Mirror at Edinburgh Fringe 2022
+- [Watch Some Other Mirror, Zoom, 2021](https://www.youtube.com/watch?v=ONU-EUteyLI)
+- [Watch Some Other Mirror, Nonsuch Studios, 2022](https://www.youtube.com/watch?v=KKcXVdMfVjg)
+- [[edfringe22|Read about Some Other Mirror at Edinburgh Fringe]]
 
 **Next showing:** London, October 2024, more information to follow closer to the time.
 ### Club Wormhole
