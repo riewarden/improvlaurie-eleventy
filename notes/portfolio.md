@@ -1,4 +1,3 @@
-# Portfolio
 This is a summary of projects that are most relevant to what I currently offer as a practitioner.
 
 ## Current Projects
