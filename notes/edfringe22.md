@@ -1,6 +1,5 @@
 ---
 title: Some Other Mirror at Edinburgh Fringe 2022
-date: 14-08-22
 ---
 
 <!-- Originally published: Sun, 14 Aug 2022 22:13:37 +0000 -->

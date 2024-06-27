@@ -19,6 +19,13 @@ body {
     margin: 0 24px;
 }
 
+p.lsup {
+    text-indent: 5%;
+    font-style: italic;
+    opacity: 30%;
+    font-size: medium;
+}
+
 img {
     max-width: 100%;
     max-height: 100%;

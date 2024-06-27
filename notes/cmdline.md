@@ -1,6 +1,5 @@
 ---
 title: cmdline
-date: 26-06-24
 ---
 
 In the introduction to his how-to guide for The Linux Command Line, William Shots makes a great point about how modern computers hide an awful lot from us, and in the case of Operating Systems like Windows, you have these incredibly powerful machines that are filled with bloat, tracking, and just nonsense, and then 90% of your time is spent clicking and dragging and scrolling. 
