@@ -26,7 +26,9 @@ _Find out more at the [Club Wormhole Facebook page.](https://www.facebook.com/Cl
 ### The Prince (At Lace Market Theatre)
 I am directing the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre.
 
-_Auditions are 15th and 17th April 2025. More information to follow closer to the time._
+_Auditions are 15th and 17th April 2025._
+
+_More information to follow closer to the time._
 ## Past Projects
 ### Impromptunes! Improvisational Piano Tutorials
 Impromptunes was a web app that I wrote with Twee (Twine) as a project for The Leeds Piano Trail, which was a festival that ran alongside Leeds International Piano Competition in 2021. A core feature of the festival was an installation where we placed 12 pianos around Leeds City Center, decorated by local artists and community groups. 

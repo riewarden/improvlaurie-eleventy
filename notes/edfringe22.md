@@ -52,20 +52,7 @@ Originally published: Sun, 14 Aug 2022 22:13:37 +0000
 
 <p>On Friday, me and Joe (the director, producer, and technician of 'Some Other Mirror') got up earlyish to walk to the other side of Edinburgh city centre to Pianodrome, our piano-themed venue which was couched inside the derelict Old Royal High on Regent Road, about ten minutes from Waverley Train Station. Approaching the place for the first time was rather surreal. Me and Joe were peering at the different grand buildings of New Town, trying to figure out which one was most shaped like a neo-classical school, when suddenly, we turned the corner, and the street fell away, into a stunning watercolour of the Edinburgh countryside, the hills higher, grander and more ancient than anything for miles around. Within it, Arthur’s Seat, epic, and elegant. Joe turned to me and said: “Not a bad walk to work.”</p>
 
-<!-- /wp:paragraph -->
-
-<!-- wp:embed {"url":"https://www.youtube.com/shorts/KoYCGRXKhUI?feature=share","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-4-3 wp-has-aspect-ratio"} -->
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-4-3 wp-has-aspect-ratio"><div class="wp-block-embed\_\_wrapper">
-
-https://www.youtube.com/shorts/KoYCGRXKhUI?feature=share
-
-</div></figure>
-
-
-<!-- /wp:embed -->
-
-<!-- wp:paragraph -->
+<iframe width="349" height="621" src="https://www.youtube.com/embed/KoYCGRXKhUI" title="walk to work (ed fringe &#39;22)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <p>The Pianodrome Ampitheatre, by comparison, is a different world. Small and intimate, every surface and screw repurposed from 40 upcycled pianos, that would otherwise have been burned for scrap metal. The space has three wedges of tiered wooden bench-seats, crisp acoustics, bouncing off soft brown varnish, decorated with dowdy lampshades. I’d first seen this space’s older sibling in photographs over a year ago, when I first met Tim and Matt, the designers and executors of Pianodrome, when we were all working for The Leeds International Piano Competition. It was so strange and so familiar to actually be in this space for the first time.</p>
 

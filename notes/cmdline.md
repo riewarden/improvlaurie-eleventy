@@ -1,5 +1,4 @@
 ---
-date: 20/06/34
 title: cmdline
 ---
 

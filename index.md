@@ -12,3 +12,5 @@ I'm passionate about co-creating work that is entertaining, that captures the sp
 - [[portfolio|My professional theatre portfolio]]
 - [[digwork|My digital work]]
 - [[thoughtghome|My thought garden]]
+
+[[credits|Credits]]

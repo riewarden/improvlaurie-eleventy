@@ -1,5 +1,4 @@
 ---
-date: 27/06/24
 title: Teaching
 ---
 I often find myself teaching performance skills, and thinking really hard about how to break down concepts into comprehensible parts. The biggest influence on my teaching style is growing up Autistic/Learning Disabled and struggling in nearly every class, until I reached A-Level, and a bigger proportion of the teaching was self-directed. 
