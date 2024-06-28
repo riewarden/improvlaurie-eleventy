@@ -26,11 +26,11 @@ title: Some Other Mirror at Edinburgh Fringe 2022
 
 <p>The Pianodrome Ampitheatre, by comparison, is a different world. Small and intimate, every surface and screw repurposed from 40 upcycled pianos, that would otherwise have been burned for scrap metal. The space has three wedges of tiered wooden bench-seats, crisp acoustics, bouncing off soft brown varnish, decorated with dowdy lampshades. I’d first seen this space’s older sibling in photographs over a year ago, when I first met Tim and Matt, the designers and executors of Pianodrome, when we were all working for The Leeds International Piano Competition. It was so strange and so familiar to actually be in this space for the first time.</p>
 
-<img src="/assets/pianodrome.jpg">
+![](/assets/pianodrome.jpg)
 
 <p>After we got all the tech set up, we had to run through the show. I stood in the middle of the carpeted stage for several minutes, not saying anything. The words frozen in my throat. I knew that once I started saying the script, in here, then the show had started. And then, I would have to actually do it for the rest of the week. Eventually, I said, “Let’s just start with the voice.”, which are not quite the first words of the show, but were the best ones for me to start with, at that point.</p>
 
-<img src="/assets/laurielooking.jpg">
+![](/assets/laurielooking.jpg)
 Laurie stands in the Pianodrome, pausing after speaking, looking pensive.
 
 <p>Until then, I had struggled to rehearse the whole show more than once in one day, but then somehow, I did it twice, and then a third time in the evening to my first audience (three people), who rounded off the first preview with rapturous applause. We were off!</p>

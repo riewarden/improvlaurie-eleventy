@@ -12,10 +12,10 @@ title: My favourite recipes
 - [How to use the seasoning triangle](https://youtu.be/mFzCV2wI6Jc?si=VcXND9Nnb7riUSsa) - This YouTube video is a practical demonstration of how the seasoning triangle works. The seasoning triangle is a concept that helps you to taste food, and understand what seasoning to add: salt, sweet, or acid.
 
 ## My Salad Formula
-- **Fat** **(1)**: Feta, avocado, mozzarella, goat's cheese
-- **Protein** **(1)**: Chickpeas, chicken, boiled eggs, marinated tofu, beans
-- **Veg** **(2)**: Celery, tomato, carrot
-- **Punch** **(1)**: Red onion, spring onion, pickles, garlic buds, chives, mango, pomegranate seeds, sauerkraut 
+- **Fat(1):** Feta, avocado, mozzarella, goat's cheese
+- **Protein (1)**: Chickpeas, chicken, boiled eggs, marinated tofu, beans
+- **Veg (2)**: Celery, tomato, carrot
+- **Punch (1)**: Red onion, spring onion, pickles, garlic buds, chives, mango, pomegranate seeds, sauerkraut 
 - **Other:** croutons, couscous, pasta, rice, crisps
 - **Tips:**
    	- If you want to eat more salad, make tasty salad.
