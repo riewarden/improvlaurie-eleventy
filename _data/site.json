@@ -1,6 +1,7 @@
 {
-    "title": "John Lemmon",
-    "desc": "1-2 sentences about the site (optional)",
-    "author": "John Lemmon",
-    "baseurl": "https://eleventy-garden.netlify.app"
+    "title": "Laurie Owen",
+    "desc": "Contains professional work and personal writing.",
+    "author": "Laurie Owen",
+    "baseurl": "https://eleventy-garden.netlify.app",
+    "favicon": "/assets/favicon.ico"
 }
