@@ -24,7 +24,7 @@ title: My favourite recipes
    	- If you roast veg in oil and herbs/spices, it creates its own sauce that can season the rest of the salad.
 
 ## Fermenting
-I have also recently started exploring [[fermentation|fermentation]]. I'm not going to explain how to do it on this page, but fermenting is a great way to preserve and pickle vegetables (and sometimes blueberries, if you're [one of them Noma mad lads](https://www.illinoistimes.com/food-drink/foundations-of-flavor-the-noma-guide-to-fermentation-11448252)).
+I have also recently started exploring [[fermentwhatis|fermentation]]. I'm not going to explain how to do it on this page, but fermenting is a great way to preserve and pickle vegetables (and sometimes blueberries, if you're [one of them Noma mad lads](https://www.illinoistimes.com/food-drink/foundations-of-flavor-the-noma-guide-to-fermentation-11448252)).
 ### Tips
 - [Join Fermenting Friends](https://www.facebook.com/share/d4zh3ZfDae5VqaYa/) Cannot reccomend this group highly enough. Suitable for beginners, lots of community resources on making sourdough, kraut, kimchi, kefir, ginger beer, any food with little guys in it. Dawn Smit is a legend. I wish there was a way to collate all the resources this group has into a format that is more navigable than a Facebook Group. They also have a group chat where you can, look for healthy single SCOBYs in your area.
 - [Revolution Fermentation recipes](https://revolutionfermentation.com/en/) Good simple recipes to follow here.
