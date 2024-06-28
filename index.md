@@ -10,7 +10,6 @@ I'm a theatre practitioner and educator based in Nottingham. I trained in Theatr
 I'm passionate about co-creating work that is entertaining, that captures the spirit of liveness, and that elevates marginalised perspectives. I am also a champion for increasing access to the theatre for the trans community, and I do this through my own creative work, and through educational and outreach initiatives.
 
 - [[portfolio|My professional theatre portfolio]]
-- [[digwork|My digital work]]
 - [[_thoughtghome|My thought garden]]
 
 ## Resources
