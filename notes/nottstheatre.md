@@ -13,14 +13,14 @@ You should probably look for a theatre group to join. Luckily, Nottingham is ful
 You should try improv! This is a type of theatre where you make it up as you go along.
   - [Making It Up](https://nottinghamplayhouse.co.uk/project/making-it-up/) is a weekly improv group for beginners at Nottingham Playhouse.
   - [MissImp](https://www.missimp.co.uk/) are an improv company who run weekly drop-ins, courses, and shows.
-  - [Loose Goose](https://loose-goose-improv.mailchimpsites.com/) is a bi-weekly relaxed improv jam on Tuesday nights.
+  - [Loose Goose](https://loose-goose-improv.mailchimpsites.com/) is a bi-monthly relaxed improv jam on Tuesday nights.
   
 ### I want to be backstage.
   - [Join Lace Market Theatre,](https://lacemarkettheatre.co.uk/) and on sign-up, express interest in helping backstage, and operating tech. This is a great way to meet experienced crew, and learn the ropes. You can do the same with any amateur group, but LMT has the advantage of owning their own auditorium and costume store.
   
 ### I want to write.
   - **Join a play reading group** to meet other people interested in text for stage.
-    - [Encore Performing Arts](https://www.facebook.com/encorenottingham) Have started running a play reading group, advertised on Facebook.
+    - [Encore Performing Arts](https://www.facebook.com/encorenottingham) have started running a play reading group, advertised on Facebook.
   - **Join a writer's group** or participate in writing workshops.
     - [Nottingham Playhouse Writer's Room](https://nottinghamplayhouse.co.uk/for-artists/amplify/writers-group/)
     - [Nottingham Writer's Studio Events](https://www.eventbrite.co.uk/cc/workshops-2613409)

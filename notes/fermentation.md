@@ -1,5 +1,5 @@
 ---
-title: Fermentation
+title: Fermentation, my story
 ---
 I started learning to ferment at the beginning of 2024. I can't completely remember what drew me to the topic. I think I had been learning about making my own pickles and preserves, and also had been wondering how to make my own fizzy drinks without a soda stream. The more I learned about [[fermentwhatis|fermentation]], the more it fascinated me.
 
