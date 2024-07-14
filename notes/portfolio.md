@@ -15,6 +15,7 @@ A continuously developing solo show about transitioning, and shaping one's mascu
 - [Watch Some Other Mirror, Zoom, 2021](https://www.youtube.com/watch?v=ONU-EUteyLI)
 - [Watch Some Other Mirror, Nonsuch Studios, 2022](https://www.youtube.com/watch?v=KKcXVdMfVjg)
 - [[edfringe22|Read about Some Other Mirror at Edinburgh Fringe]]
+- [[SOM|Notes on Some Other Mirror]]
 
 _**Next showing:** London, October 2024, more information to follow closer to the time._
 ### Club Wormhole

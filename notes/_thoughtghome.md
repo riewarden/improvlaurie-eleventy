@@ -8,3 +8,4 @@ This is the entrance to the thought garden. I am an interdisciplinary person, an
 - [[theatrehub|Theatre and Me]]
 - [[teaching|Teaching]]
 - [[recipes|Recipes]]
+- [[SOM|Some Other Mirror]]
