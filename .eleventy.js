@@ -47,6 +47,7 @@ eleventyConfig.addFilter("postDate", (dateObj) => {
     
     eleventyConfig.addPassthroughCopy('assets');
     eleventyConfig.setUseGitIgnore(false);
+    
 
     return {
         dir: {
