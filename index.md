@@ -16,3 +16,4 @@ I'm passionate about co-creating work that is entertaining, that captures the sp
 Lists of local resources for topics I get asked about a lot.
 - [[transresources|Trans Resources (For Nottingham and further afield)]]
 - [[nottstheatre|Nottingham Theatre Resources]]
+

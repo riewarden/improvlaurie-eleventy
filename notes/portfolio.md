@@ -18,7 +18,7 @@ A continuously developing solo show about transitioning, and shaping one's mascu
 
 _**Next showing:** London, October 2024, more information to follow closer to the time._
 ### Club Wormhole
-A monthly alternative comedy night, showcasing unusual fringe acts from around the country. I am a co-organiser, co-writer and host of the show.
+A monthly alternative comedy night, showcasing unusual fringe acts from around the country. I am a co-organiser, co-writer and co-host of the show.
 
 _Find out more at the [Club Wormhole Facebook page.](https://www.facebook.com/ClubWormhole)_
 ## Future Projects

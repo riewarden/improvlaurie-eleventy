@@ -2,7 +2,6 @@
 const { DateTime } = require("luxon");
 
 module.exports = function(eleventyConfig) {
-    
     const markdownIt = require('markdown-it');
     const markdownItOptions = {
         html: true,
@@ -24,6 +23,9 @@ module.exports = function(eleventyConfig) {
             }
         })
     })
+    
+    
+
     
 
 
@@ -54,6 +56,7 @@ eleventyConfig.addFilter("postDate", (dateObj) => {
             includes: "includes",
             data: "_data"
         },
-        passthroughFileCopy: true
+        passthroughFileCopy: true,
+        markdownTemplateEngine: "njk"
     }
 }
