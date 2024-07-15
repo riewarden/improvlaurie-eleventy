@@ -9,3 +9,4 @@ This is the entrance to the thought garden. I am an interdisciplinary person, an
 - [[teaching|Teaching]]
 - [[recipes|Recipes]]
 - [[SOM|Some Other Mirror]]
+- [[resourceslinks|A few of my favourite things...]]
