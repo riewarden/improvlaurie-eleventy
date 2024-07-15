@@ -1,0 +1,10 @@
+---
+title: Teaching Theatre
+---
+I have run improv workshops for a long time, and more recently, I have started running drama workshops, that are more focused on traditional theatre topics like voice, movement, props, light, etc. I only teach adults. I have tried to work with kids, and I just don't enjoy it and can't find it fun. 
+
+Teaching theatre well is very important to me because for so many people, it's a second chance to find their voice, after school, family, or traitors destroyed it. People are really surprised when I tell them that in my experience of running improv workshops, introverts show up way more than extroverts. I think theatre is a bit more variable. But I find that most of my job is not teaching performance skills, it's actually just helping people get out of their own way. 
+
+The voice is so crucial in this (The physical voice, not the metaphorical creative voice). I usually build my workshop plans around 1) Make a noise. 2) Rehearse set sentences 3) Improvise with others. This is a common pedagogical progression in voice coaching, which I learned from co-producing the Trans Voice Workshops for Nottingham Playhouse, which are supported by a professional Speech and Language Therapist.
+
+I try to respect Viola Spoliln's approach to anti-authoritarian classrooms and [the group games model of learning](https://spolingamesonline.org/the-group-games-model-of-learning/). I don't really like the 'teacher/student' dichotomy but haven't found a sufficient alternative way to describe a classroom. I never situate myself as a sole authority on anything, only a practitioner with a personal collection of tools and resources that are offered to students. I devise problems for students to solve,  rather than questions with fixed answers. Each student progresses at their own pace. There may be students who spend two hours building the confidence to make a single noise in front of another person. That student should be included and encouraged regardless, and their progression is still celebrated.
