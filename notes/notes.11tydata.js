@@ -6,10 +6,16 @@ const wikilinkRegExp = /\[\[\s?([^\[\]\|\n\r]+)(\|[^\[\]\|\n\r]+)?\s?\]\]/g
 function caselessCompare(a, b) {
     return a.normalize().toLowerCase() === b.normalize().toLowerCase();
 }
+
+
 // try removing backlings, I think they are screwing up the output file structure
 module.exports = {
+    
     layout: "note.html",
     type: "note",
+    //permalink: data => data.page.fileSlug,
+
+    /*
     eleventyComputed: {
         title: data => titleCase(data.title || data.page.fileSlug),
         backlinks: (data) => {
@@ -49,4 +55,6 @@ module.exports = {
             return backlinks;
         }
     }
+
+    */
 }

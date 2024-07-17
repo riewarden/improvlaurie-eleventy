@@ -17,3 +17,10 @@ Lists of local resources for topics I get asked about a lot.
 - [[transresources|Trans Resources (For Nottingham and further afield)]]
 - [[nottstheatre|Nottingham Theatre Resources]]
 
+## My Mastodon Feed
+<a class="mastodon-feed" href="https://zirk.us/@riewarden" data-toot-limit="3">follow me into the Fediverse</a>
+<script type="module" src="https://esm.sh/emfed@1"> </script>
+   
+   
+
+  
