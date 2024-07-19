@@ -13,7 +13,9 @@ module.exports = {
     
     layout: "note.html",
     type: "note",
-    permalink: data => `${data.page.fileSlug}.${data.page.outputFileExtension}`,
+    permalink: data => `${data.page.fileSlug}/index.html`,
+    
+    //permalink: data => `${data.page.fileSlug}.${data.page.outputFileExtension}`,
     //permalink: data => data.page.permalink.replace('/notes/', ''),
     /*
     eleventyComputed: {

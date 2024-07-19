@@ -19,7 +19,7 @@ module.exports = function(eleventyConfig) {
                 const parts = match.raw.slice(2,-2).split("|");
                 parts[0] = parts[0].replace(/.(md|markdown)\s?$/i, "");
                 match.text = (parts[1] || parts[0]).trim();
-                match.url = `/${parts[0].trim()}.html`;
+                match.url = `/${parts[0].trim()}`;
             }
         })
     })
