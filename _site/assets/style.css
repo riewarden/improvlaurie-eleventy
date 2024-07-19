@@ -8,9 +8,10 @@ html {
     scroll-behavior: smooth;
 }
 
+
 body {
-    font-family: Inter, sans-serif;
-    line-height: 1.65;
+    font-family: Tahoma, sans-serif;
+    line-height: normal;
     
     display: flex;
     flex-direction: column;
@@ -19,77 +20,6 @@ body {
     margin: 0 24px;
 }
 
-/* toots */
-
-/*https://github.com/sampsyo/emfed/blob/main/toots.css */
-
-.toots {
-    max-width: 100%;
-    max-height: 100%;
-    background-color: #f7df02;
-    color: black;
-    font-family: Inter, sans-serif;
-    padding: 2%;
-    border-style: solid;
-  border-color: black;
-  line-height: normal;
-}
-
-.toot {
-    border-bottom: 1px solid black;
-    padding: 1rem;
-  }
-
-
-.toot .permalink {
-    color: #945201;
-}
-
-.toot .user {
-    padding: 0.5%;
-    
-  }
-
-  .toot .user.boost {
-    font-style: italic;
-    font-size: small;
-    
-  }
-
-  .toot .avatar {
-    border-style: solid;
-  border-color: black;
-  }
-
-  .toot .attachment img {
-    border-style: solid;
-  border-color: black;
-  }
-
-.toot .display-name {
-    font-weight: bolder;
-    font-size: 110%;
-    color: black;
-   
-}
-
-
-.toot .username {
-    color: #945201;
-}
-
-.toot .boost:before {
-    content: "↩";
-    
-    
-}
-
-.toots .body {
-    font-weight: lighter;
-  
-}
-
-/* end toots*/
 
 
 img {
@@ -105,11 +35,17 @@ img {
 }
 
 .page-header {
+    
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    margin-top: 8px;
+    /* margin-top: 8px;*/
+    background-color: #ffef78;
+    margin-bottom: 3%;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-right-style: solid;
 }
 
 .page-header nav a:not(:hover):not(:focus) {
@@ -124,7 +60,7 @@ nav a {
 
 main {
     flex-grow: 1;
-    max-width: 60ch;
+    max-width: 80ch;
     width: 100%;
     margin: 0 auto;
 }
@@ -244,3 +180,75 @@ small {font-size: 0.8em;}
 .backlink:hover .backlink__preview {
     display: block;
 }
+
+/* toots */
+
+/*https://github.com/sampsyo/emfed/blob/main/toots.css */
+
+.toots {
+    max-width: 100%;
+    max-height: 100%;
+    background-color: #ffef78;;
+    color: black;
+    font-family: Inter, sans-serif;
+    padding: 2%;
+    border-style: solid;
+  border-color: black;
+  line-height: normal;
+}
+
+.toot {
+    border-bottom: 1px solid black;
+    padding: 1rem;
+  }
+
+
+.toot .permalink {
+    color: #945201;
+}
+
+.toot .user {
+    padding: 0.5%;
+    
+  }
+
+  .toot .user.boost {
+    font-style: italic;
+    font-size: small;
+    
+  }
+
+  .toot .avatar {
+    border-style: solid;
+  border-color: black;
+  }
+
+  .toot .attachment img {
+    border-style: solid;
+  border-color: black;
+  }
+
+.toot .display-name {
+    font-weight: bolder;
+    font-size: 110%;
+    color: black;
+   
+}
+
+
+.toot .username {
+    color: #945201;
+}
+
+.toot .boost:before {
+    content: "↩";
+    
+    
+}
+
+.toots .body {
+    font-weight: lighter;
+  
+}
+
+/* end toots*/
