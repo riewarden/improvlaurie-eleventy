@@ -19,6 +19,8 @@ body {
     margin: 0 24px;
 }
 
+/* toots */
+
 /*https://github.com/sampsyo/emfed/blob/main/toots.css */
 
 .toots {
@@ -30,14 +32,28 @@ body {
     padding: 2%;
     border-style: solid;
   border-color: black;
+  line-height: normal;
 }
+
+.toot {
+    border-bottom: 1px solid black;
+    padding: 1rem;
+  }
+
 
 .toot .permalink {
     color: #945201;
 }
 
 .toot .user {
-    padding-top: 0.5%;
+    padding: 0.5%;
+    
+  }
+
+  .toot .user.boost {
+    font-style: italic;
+    font-size: small;
+    
   }
 
   .toot .avatar {
@@ -53,7 +69,10 @@ body {
 .toot .display-name {
     font-weight: bolder;
     font-size: 110%;
+    color: black;
+   
 }
+
 
 .toot .username {
     color: #945201;
@@ -62,12 +81,16 @@ body {
 .toot .boost:before {
     content: "↩";
     
+    
 }
 
 .toots .body {
     font-weight: lighter;
   
 }
+
+/* end toots*/
+
 
 img {
     max-width: 100%;
