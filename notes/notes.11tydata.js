@@ -13,8 +13,8 @@ module.exports = {
     
     layout: "note.html",
     type: "note",
-    //permalink: data => data.page.fileSlug,
-
+    permalink: data => `${data.page.fileSlug}.${data.page.outputFileExtension}`,
+    //permalink: data => data.page.permalink.replace('/notes/', ''),
     /*
     eleventyComputed: {
         title: data => titleCase(data.title || data.page.fileSlug),
