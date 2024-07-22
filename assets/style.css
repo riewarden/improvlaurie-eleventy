@@ -89,6 +89,14 @@ a[href]:focus {
     outline-offset: 4px;
 }
 
+a[href^='http']::after {
+    content: "🠊";
+    display: inline-block;
+    margin-left: 0.2em;
+    position: absolute;
+  }
+
+
 .footnotes {
     font-size: 0.8em;
 }
