@@ -9,4 +9,3 @@ Improv fundamentally changed the way I made creative work. Maybe I will write ab
 3. I embrace and utilise my mundanity.
 4. I play with form.
 5. I don't start with a script any more.
-6. 

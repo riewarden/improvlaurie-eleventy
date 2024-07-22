@@ -1,13 +1,6 @@
 ---
 title: Portfolio
 ---
-
-<style>
-article {
-    background-color: #FFFFFF;
-}
-    </style>
-
 This is a summary of projects that are most relevant to what I currently offer as a practitioner. To view my official CV and contact details, [Click Here](/assets/cv-june-2024.pdf)
 
 ## Current Projects

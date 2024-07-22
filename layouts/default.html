@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<style>
+    article {
+          /*top/bottom , right/left */
+        padding: 5% 5% ;
+        background-color: #FFFFFF;
+        border-style: solid;
+        border-color: black;
+    }
+        </style>
 <head>
     {% include 'head.html' %}
 </head>
@@ -18,7 +28,9 @@
         </nav>
     </header>
     <main>
+        <article>
         {{content}}
+    </article>
     </main>
     
     <footer class="page-footer">
