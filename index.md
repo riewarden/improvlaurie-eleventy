@@ -17,7 +17,7 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 
 ## Resources
 Lists of local resources for topics I get asked about a lot.
-- [[transresources|Trans Resources (For Nottingham and further afield)]]
+- [[transresources|Trans Resources (For Nottingham and more)]]
 - [[nottstheatre|Nottingham Theatre Resources]]
 
 ## My Mastodon Feed

@@ -1,0 +1,17 @@
+---
+title: Things I wish I had known before starting my transition
+---
+1. **Join a local or regional network of trans people.** Your oppressers want you to think that you have to do this all on your own. Your oppressors want you to believe that your problems don't matter, and so you shouldn't bother trying to get help. Your oppressors laugh when you deny yourself connection with others, and make yourself small.
+2. **Stop using Twitter.** Find ways to connect with friends outside of it.
+3. **Don't let 'being trans enough' be a barrier to finding like-minded people.** The trans spaces that are worth being in will welcome people who are not sure if they are trans or not, and will be generous to those who need time and space to learn what they want to be.
+4. **If you are questioning your own identity, many trans people will be happy to answer questions about being trans (within reason).** They were probably in your exact situation not too long ago. Try to approach someone who is public and vocal about their trans status.
+5. **When you are figuring yourself out, don't dump 100% of your angst into one friend.** You will likely ruin this friendship. Find a variety of ways to distribute your support needs and you will be a thousand times stronger for it (e.g, in-person support groups, online groups, journaling, creativity, finding books/films/podcasts/comics about trans characters, doing gender affirming self-care rituals)
+6. **Try doing gender affirming things that you think you 'don't need'.** In my case, I didn't get a chest binder for a long time because I felt there was a moral/political statement to be made by not wearing one. But when I finally tried one on, it made my life so much easier. And that in itself is highly political.
+7. **Look at other private providers besisdes GenderGP.** Consider [Gendercare](https://gendercare.co.uk/) instead. While you have to pay larger upfront costs, Gendercare don't charge a monthly subscription, there are no hidden fees, and it's much easier to get [[transsharedcare|Shared Care]] with documentation from Gendercare practitioners. Getting Shared Care means that if you are on the waiting list, Gendercare will almost always work out cheaper in the long run. 
+   
+   A lot of people use GenderGP, particularly people who live paycheck to paycheck and believe the subscription model is more financially accessible. I personally believe that GGP's subscription model is  dangerous for people living paycheck to paycheck, because if there is an unexpected change in financial circumstances, there is a high risk of HRT and blood monitoring being suddenly cut off, with no safety net. 
+
+8. **Not all old people are transphobic.** Many of them fundamentally won't care what has changed, and will just get frustrated with their own ability to remember new names and pronouns.
+9. **Don't pay for a deedpoll.** Anyone who tells you that paying for a deed poll makes it better is **SCAMMING YOU**. You can pay a fee to get an [Enrolled Deed Poll](https://www.gov.uk/change-name-deed-poll/enrol-a-deed-poll-with-the-courts) but this is not a good idea for trans people, because it puts your name change on public record, including your deadname. 
+    - [Deed Poll websites to avoid](https://www.theguardian.com/money/2013/jun/29/deed-poll-websites-avoid) This article explains why a free deed poll is valid, and exposes the scammers.
+    - [FreeDeedPoll.org.uk](https://freedeedpoll.org.uk/) Follow the instructions and print 10 copies!

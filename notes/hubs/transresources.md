@@ -1,6 +1,7 @@
 ---
 title: Trans Resources
 ---
+This page contains helpful resources for anyone UK or Nottingham-based who is looking for trans-related support and community.
 ## Nottingham Trans Resources
 - [Notts Trans Hub](https://www.nottstranshub.org/) Nottingham's main trans charity. They have a [Facebook](https://www.facebook.com/nottstranshub/?locale=en_GB) group and Discord server.
   - **Genderphoria** - Group for Nottingham-based trans youth, in collaboration with Notts Trans Hub. Contact Trans Hub for more info.
@@ -18,4 +19,5 @@ title: Trans Resources
 - [Pronouns Dressing Room](http://www.pronouns.failedslacker.com/) A simple web app that lets you put a name and a set of pronouns in, and inserts them into a block of text from a public-domain story, so you can see them in context.
 - [Gendered Intelligence](https://genderedintelligence.co.uk/about-us) Trans-led charity aiming to increase understanding of gender diversity and improve the lives of trans people. Provide training and consultancy on supporting trans people in the workplace, and work with the media to influence legislation.
 - [TransActual](https://transactual.org.uk/) CIC aiming to challenge misinformation about trans people in the UK media, and amplify trans voices. Also provide training and consultancy.
+- [[transwish|Things I Wish I Knew Before Starting My Transition]] Blog by me.
 
