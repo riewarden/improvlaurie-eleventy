@@ -14,6 +14,7 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 
 - [[portfolio|My professional theatre portfolio]]
 - [[_thoughtghome|My thought garden]]
+- [[now|What am I doing right now?]]
 
 ## Resources
 Lists of local resources for topics I get asked about a lot.

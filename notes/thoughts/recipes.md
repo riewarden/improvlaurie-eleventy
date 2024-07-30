@@ -1,6 +1,7 @@
 ---
 title: My favourite recipes
 ---
+## Recipe links
 - [Simple flatbreads](https://www.bbcgoodfood.com/recipes/no-yeast-pizza-dough)
     - These make great pizza bases.
 - [Cheat's Spinach Lasagne](https://www.gimmesomeoven.com/spinach-lasagna-recipe/)
@@ -10,13 +11,14 @@ title: My favourite recipes
 - [[recipecracker|Laurie's Rosemary and Garlic Crackers]]
   - So tasty.
 - [How to use the seasoning triangle](https://youtu.be/mFzCV2wI6Jc?si=VcXND9Nnb7riUSsa) - This YouTube video is a practical demonstration of how the seasoning triangle works. The seasoning triangle is a concept that helps you to taste food, and understand what seasoning to add: salt, sweet, or acid.
+- [Spicy Corn, Black Bean and Feta Salad](https://www.bbcgoodfood.com/recipes/spicy-corn-black-bean-feta-salad) - Top tier salad tbh. 
 
 ## My Salad Formula
-- **Fat(1):** Feta, avocado, mozzarella, goat's cheese
-- **Protein (1)**: Chickpeas, chicken, boiled eggs, marinated tofu, beans
-- **Veg (2)**: Celery, tomato, carrot
-- **Punch (1)**: Red onion, spring onion, pickles, garlic buds, chives, mango, pomegranate seeds, sauerkraut 
-- **Other:** croutons, couscous, pasta, rice, crisps
+- **Fat(1):** Feta, avocado, mozzarella, goat's cheese.
+- **Protein (1)**: Chickpeas, chicken, boiled eggs, marinated tofu, beans.
+- **Veg (2)**: Celery, tomato, carrot, bell pepper, sweetcorn.
+- **Punch (1)**: Red onion, spring onion, pickles, wild garlic buds, chives, mango, pomegranate seeds, sauerkraut. 
+- **Other:** croutons, couscous, pasta, rice, fonio.
 - **Tips:**
    	- If you want to eat more salad, make tasty salad.
    	- Season everything! With a bit of salt and pepper.
