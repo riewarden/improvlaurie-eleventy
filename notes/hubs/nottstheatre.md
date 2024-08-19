@@ -17,6 +17,7 @@ You should try improv! This is a type of theatre where you make it up as you go 
   
 ### I want to be backstage.
   - [Join Lace Market Theatre,](https://lacemarkettheatre.co.uk/) and on sign-up, express interest in helping backstage, and operating tech. This is a great way to meet experienced crew, and learn the ropes. You can do the same with any amateur group, but LMT has the advantage of owning their own auditorium and costume store.
+  - [Theatre Crafts Books List](https://archive.org/details/@riewarden/lists/2/theatre-crafts) This is a list of free online Archive.org books about building things for theatre.
   
 ### I want to write.
   - **Join a play reading group** to meet other people interested in text for stage.
