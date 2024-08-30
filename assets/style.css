@@ -27,8 +27,13 @@ body {
   }
 
 img {
-    max-width: 100%;
-    max-height: 100%;
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+    padding: 25%, 25%, 0;
+    border-style: solid;
+    border-color: black;
+    
 }
 
 
@@ -80,6 +85,7 @@ main {
 
 a[href] {
     color: #1948ff;
+    
 }
 
 a[href]:visited {
@@ -102,7 +108,6 @@ a[href^='http'] {
 
 a[href^='http']::after {
     content: "→";
-    display: inline-block;
     margin-left: 0.2em;
     position: absolute;
     width: 1em;
@@ -220,64 +225,139 @@ small {font-size: 0.8em;}
   line-height: normal;
 }
 
-.toot {
-    border-bottom: 1px solid black;
-    padding: 1rem;
-  }
+.toots a {
+    padding-right: 0;
+}
+
+.toots a[href^='http']::after {
+    display: none;
+}
+
 
 .toot .user {
-    padding: 0.5%;
+    display: flex;
+  flex-flow: row wrap;
+  justify-content: start;
+  align-content: flex-start;
+  height: 100%;  /* Avatar height. */
+  column-gap: 0.5rem;
+  text-decoration: none;
+  color: inherit;
+    padding: 0;
     
   }
 
-.toot .permalink {
+  .toot .avatar {
+    max-width: 15%;
+    max-height: 15%;
+    border-radius: 4px;
+    border-style: solid;
+     border-color: black;
+     padding: 0%;
+     
+  }  
+
+  .toot .display-name {
+    font-weight: bolder;
+    display: block;
+    font-size: 110%;
+    color: black;
+   
+}
+
+.toot .username {
+    display: inline;
+    margin-right: 1em;
+    color: #945201;
+}
+
+
+
+
+.toot .user:hover .display-name {
+    text-decoration: underline;
+    
+  }
+
+  
+.toot .boost {
+  margin-bottom: 0.25rem;
+  column-gap: 0.25rem;
+    font-style: italic;
+    font-size: small;
+    
+  }
+
+
+.toot .boost:before {
+    content: "↩";
+    font-size: 140%;    
+}
+
+.toot .boost .username {
+    display: none;
+  }
+
+  .toot .permalink {
     color: #945201;
     margin-left: 5%;
     padding-left: 5%;
     
 }
 
-
-
-
-  .toot .boost {
-    font-style: italic;
-    font-size: small;
-    
+.toot .permalink:hover {
+    text-decoration: underline;
   }
 
-  .toot .avatar {
-    border-style: solid;
-  border-color: black;
-  }
 
-  .toot .attachment img {
-    border-style: solid;
-  border-color: black;
-  }
-
-.toot .display-name {
-    font-weight: bolder;
-    font-size: 110%;
-    color: black;
-   
-}
-
-
-.toot .username {
-    color: #945201;
-}
-
-.toot .boost:before {
-    content: "↩";
-    
-    
-}
-
-.toots .body {
+  .toot .body {
+    clear: both;
+    margin-top: 1em;
     font-weight: lighter;
+  }
   
-}
+  .toot .body a {
+    overflow-wrap: anywhere;
+    
+  }
+  
+  /* Weird trick to keep the text in the page but not display it. */
+  .toot .body .invisible {
+    display: inline-block;
+    font-size: 0;
+    line-height: 0;
+    width: 0;
+    height: 0;
+    position: absolute;
+  }
+  
+  .toot .body .ellipsis::after {
+    content: "…";
+  }
+
+  .toot .attachment {
+    display: inline;
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 16 / 9;
+    border-radius: 4px;
+  }
+  
+  .toot .attachment img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-style: solid;
+    border-color: black;
+    padding: 0%;
+  }
+
+
+.toot {
+    border-bottom: 1px solid black;
+    padding: 1rem;
+  }
+
 
 .toots a[href^='http']::after {
     content: none;
