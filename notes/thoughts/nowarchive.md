@@ -1,0 +1,7 @@
+# July 30th 2024
+- **Reading:** Filterworlds by Kyle Chayka, Zami by Audre Lorde, Rope by Patrick Hamilton.
+- **Watching:** Dimension 20 - Neverafter, Home by Nadia Fall, Make Some Noise, Deutschland 83. 
+- **Wearing:** Bright yellow hoodie, converse, peaked cap.
+- **Excited about:** Possible freelance work with a comedy production company. A book I impulse ordered about [a single line of BASIC code.](https://10print.org/) A case of [Dalston’s](https://dalstons.com/) fizzy drinks I ordered using an offer code. Owning my own website and sharing it with people. A delicious pasta dressing I made yesterday from chopped tomatoes, olive oil, garlic, home-grown basil, salt and pepper.
+- **Annoyed about:** PowerAutomate being pushed at my day job to compensate for management’s reluctance to pay for reliable software and training. Wes Streeting and Blue Labour. Weird Javascript stuff. 
+- **Planning for:** Club Wormhole August show: ‘Wizards of Camelot’. Trans Voice possibly restarting in Autumn. Possible new trans/theatre initiatives in Nottingham. [Robin Hood International Improv Festival](https://www.robinhoodimprov.co.uk/) in September. My talk at [Queer Arts Collective](https://nottinghamplayhouse.co.uk/project/nottinghams-queer-arts-collective/) in September.  My sister’s hen do in October. Learning lines for [Some Other Mirror performance in October](https://lambethfringe.com/events/some-other-mirrors). My backstage/design crew for The Prince in 2025. On committee for 2025-26 season at Lace Market Theatre.

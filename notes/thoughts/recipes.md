@@ -18,7 +18,7 @@ title: My favourite recipes
 - **Protein (1)**: Chickpeas, chicken, boiled eggs, marinated tofu, beans.
 - **Veg (2)**: Celery, tomato, carrot, bell pepper, sweetcorn.
 - **Punch (1)**: Red onion, spring onion, pickles, wild garlic buds, chives, mango, pomegranate seeds, sauerkraut. 
-- **Other:** croutons, couscous, pasta, rice, fonio.
+- **Other:** croutons, couscous, pasta, rice, fonio, roast potato cubes.
 - **Tips:**
    	- If you want to eat more salad, make tasty salad.
    	- Season everything! With a bit of salt and pepper.
@@ -30,5 +30,5 @@ I have also recently started exploring [[fermentwhatis|fermentation]]. I'm not g
 ### Tips
 - [Join Fermenting Friends](https://www.facebook.com/share/d4zh3ZfDae5VqaYa/) Cannot reccomend this group highly enough. Suitable for beginners, lots of community resources on making sourdough, kraut, kimchi, kefir, ginger beer, any food with little guys in it. Dawn Smit is a legend. I wish there was a way to collate all the resources this group has into a format that is more navigable than a Facebook Group. They also have a group chat where you can, look for healthy single SCOBYs in your area.
 - [Revolution Fermentation recipes](https://revolutionfermentation.com/en/) Good simple recipes to follow here.
-- **Don't buy a fancy jar with a valve sticking out of the top!** Kilner-style jars with a rubber seal are cheaper and do the same thing. You need a vessel with a seal like this because it allows pressurised Co2 produced by microorganisms to escape, so the jar doesn't smash, but it prevents oxygen getting in.
+- **Don't buy a fancy jar with a valve sticking out of the top!** Kilner-style jars with a rubber seal are cheaper and do the same thing. You need a vessel with a seal like this because it allows pressurised Co2 produced by microorganisms to escape, so the jar doesn't smash, but it prevents oxygen getting in. Valves make more sense for homebrewed/fermented drinks, where you want a vessel that is easy to pour from, but which can still release gas.
 - [Edible Alchemy](https://www.instagram.com/ediblealchemy.co/) on Instagram has lots of fun videos and inspiration for fermentation. Alexis, the presenter, has boundless enthusiasm and resourcefulness, and her family have been fermenting for generations.
