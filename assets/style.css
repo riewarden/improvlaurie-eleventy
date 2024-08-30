@@ -246,6 +246,7 @@ small {font-size: 0.8em;}
   text-decoration: none;
   color: inherit;
     padding: 0;
+    line-height: 3em;
     
   }
 
@@ -268,9 +269,10 @@ small {font-size: 0.8em;}
 }
 
 .toot .username {
-    display: inline;
+    display: block;
     margin-right: 1em;
     color: #945201;
+    font-size: 80%;
 }
 
 
@@ -287,6 +289,8 @@ small {font-size: 0.8em;}
   column-gap: 0.25rem;
     font-style: italic;
     font-size: small;
+    font-weight: lighter;
+    line-height: 2em;
     
   }
 
