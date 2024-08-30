@@ -29,6 +29,7 @@ body {
 img {
     max-width: 100%;
     max-height: 100%;
+
     display: block;
     padding: 25%, 25%, 0;
     border-style: solid;
@@ -240,6 +241,7 @@ small {font-size: 0.8em;}
   justify-content: start;
   align-content: flex-start;
   height: 100%;  /* Avatar height. */
+  width: 100%;
   column-gap: 0.5rem;
   text-decoration: none;
   color: inherit;

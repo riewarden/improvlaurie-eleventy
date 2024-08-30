@@ -31,7 +31,7 @@ A continuously developing solo show about transitioning, and shaping one's mascu
 - [[edfringe22|Read about Some Other Mirror at Edinburgh Fringe]]
 - [[SOM|Notes on Some Other Mirror]]
 
-_**Next showing:** London, October 2024, more information to follow closer to the time._
+**Next showing:** Lambeth Fringe, London, 7-8 October 2024, [Book Tickets](https://lambethfringe.com/events/some-other-mirrors)
 ### Club Wormhole
 A monthly alternative comedy night, showcasing unusual fringe acts from around the country. I am a co-organiser, co-writer and co-host of the show.
 
