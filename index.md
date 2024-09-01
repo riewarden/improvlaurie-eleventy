@@ -4,7 +4,10 @@ title: Home
 ---
 You've reached...<center>
 # Laurie Owen 
- <img src="/assets/profilepic.jpg" alt="picture of Laurie, a smiling white guy with brown hair, glasses and a white and orange hawaiian shirt" style="max-width:50%;max-height:50%"></center>
+ <img src="/assets/profilepic.jpg" alt="picture of Laurie, a smiling white guy with brown hair, glasses and a white and orange hawaiian shirt" style="max-width:60%;max-height:60%">
+ <small>Photo by <a href="https://www.instagram.com/the.storytelling.walker/">Kate Spencer</a></small></center>
+
+
 
 I'm a theatre practitioner and educator based in Nottingham. I trained in Theatre and Performance at The University of Leeds, and have practised Performing Arts since 2009. I have been teaching performance skills to adults since 2018, and currently teach theatre workshops at Nottingham Playhouse. My pronouns are he/him.
 

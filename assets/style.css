@@ -306,9 +306,8 @@ small {font-size: 0.8em;}
 
   .toot .permalink {
     color: #945201;
-    margin-left: 5%;
-    padding-left: 5%;
-    
+   display: block;
+   text-align: end;
 }
 
 .toot .permalink:hover {
