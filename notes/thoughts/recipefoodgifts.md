@@ -1,5 +1,5 @@
 ---
-title: Really Easy gifts that will keep well
+title: Really easy edible gifts
 ---
 
 If you're short on cash, a personal gift can be really special and satisyfing to both give and receive. I think it's beautiful and radical to forgoe monetary expense for other qualities. There are actually lots of edible gifts that are simple and safe to make, even if you don't consider yourself very adept in the kitchen. I've provided some examples and tips, and a big list of resources for more ideas and inspiration.
