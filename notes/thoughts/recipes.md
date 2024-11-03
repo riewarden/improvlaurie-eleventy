@@ -2,16 +2,13 @@
 title: My favourite recipes
 ---
 ## Recipe links
-- [Simple flatbreads](https://www.bbcgoodfood.com/recipes/no-yeast-pizza-dough)
-    - These make great pizza bases.
-- [Cheat's Spinach Lasagne](https://www.gimmesomeoven.com/spinach-lasagna-recipe/)
-  - Incredible but very simple lasagne where you don't have to make separate sauces, you just layer up passata, sausage meat, ricotta and spinach and pasta.
-- [Pajeon](https://www.maangchi.com/recipe/pajeon)
-  - Super simple midweek meal. I like to make a cheaper version that replaces the seafood for lardons. But don't forget to put enough oil on to cook the pancake, the lardons don't create enough.
-- [[recipecracker|Laurie's Rosemary and Garlic Crackers]]
-  - So tasty.
-- [How to use the seasoning triangle](https://youtu.be/mFzCV2wI6Jc?si=VcXND9Nnb7riUSsa) - This YouTube video is a practical demonstration of how the seasoning triangle works. The seasoning triangle is a concept that helps you to taste food, and understand what seasoning to add: salt, sweet, or acid.
-- [Spicy Corn, Black Bean and Feta Salad](https://www.bbcgoodfood.com/recipes/spicy-corn-black-bean-feta-salad) - Top tier salad tbh. 
+- [Simple flatbreads](https://www.bbcgoodfood.com/recipes/no-yeast-pizza-dough) These make great pizza bases.
+- [Cheat's Spinach Lasagne](https://www.gimmesomeoven.com/spinach-lasagna-recipe/) Incredible but very simple lasagne where you don't have to make separate sauces, you just layer up passata, sausage meat, ricotta and spinach and pasta.
+- [Pajeon](https://www.maangchi.com/recipe/pajeon) Super simple midweek meal. I like to make a cheaper version that replaces the seafood for lardons. But don't forget to put enough oil on to cook the pancake, the lardons don't create enough.
+- [[recipecracker|Laurie's Rosemary and Garlic Crackers]] - So tasty.
+- [How to use the seasoning triangle](https://youtu.be/mFzCV2wI6Jc?si=VcXND9Nnb7riUSsa) This YouTube video is a practical demonstration of how the seasoning triangle works. The seasoning triangle is a concept that helps you to taste food, and understand what seasoning to add: salt, sweet, or acid.
+- [Spicy Corn, Black Bean and Feta Salad](https://www.bbcgoodfood.com/recipes/spicy-corn-black-bean-feta-salad) Top tier salad tbh. 
+- [[recipefoodgifts|Food Gift Ideas]] - My tips for simple, cheap, low-effort edible gifts for Christmas and birthdays.
 
 ## My Salad Formula
 - **Fat(1):** Feta, avocado, mozzarella, goat's cheese.

@@ -21,10 +21,7 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 - [[now|What am I doing right now?]]
 ## My upcoming events
 Click below to book tickets for:
-- [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to April 2025* - Free monthly workshops on transgender voice technique. SEPTEMBER NOW SOLD OUT!
-- [How Can Art Help Anyone?](https://www.facebook.com/events/824489019805093/?ref=newsfeed) *Sept 25th 2024* - Talk/Q&A on teaching community workshops.
-- [Get It Up With Lee and Laurie](https://www.ticketsource.co.uk/club-wormhole/get-it-up-with-lee-and-laurie-theatremaking-in-austerity/e-qlrdgr) *Sept-Oct 2024* - Four-session course on finding your voice and making theatre from scratch with no resources.
-- [Some Other Mirror 3.0 at Lambeth Fringe](https://lambethfringe.com/events/some-other-mirrors) *Oct 7th and 8th 2024* - My iterative solo show about transmasculinity and growing up, three years in the making.
+- [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to April 2025* - Free monthly workshops on transgender voice technique. NOVEMBER NOW SOLD OUT!
 
 ## Resources
 Lists of local resources for topics I get asked about a lot.
