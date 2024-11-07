@@ -1,10 +1,10 @@
 ---
 title: Now
 ---
-- **Reading:** Black Comedians on Black Comedy by Darryl Littleton. [Read it here on Archive.org.](https://archive.org/details/blackcomedianson00litt)
-- **Watching:** SortedFood, Make Some Noise.
-- **Listening to:** The Goon Show. Almost constantly. Particularly while doing boring things at work, and when getting to sleep. I'm learning so much about the history of comedy in the UK from it. It's such a wild and ridiculous show, but it also couldn't exist without the devastating impacts of WW2 on Spike Milligan's life, and I find that really interesting.
-- **Wearing:** Bright yellow hoodie, converse, peaked cap, a leather monogrammed pocket attached to my belt which holds my swiss army knife.
-- **Excited about:** My strawberry and raspberry kombucha, which has grown from a culture given to me by James. Robin Hood Improv next week, where I will be stewarding and perfoming and eating lots of food at Bombay Deli. Teaching with Lee in September. My show in October. I made some home-made brunch bars from peanut butter, oats, syrup and chocolate chips. Me and Rory made a delicious beetroot curry together, using a recipe reccomended by James. Rory also bought blinds for their windows at their flat and I haven't seen them yet, but in the photos they look great. Thinking about Fake Christmas, a special celebration that I will be attending with James in December.
-- **Annoyed about:** Bad stuff at work. Bored at work. Worried about work changing at the end of September. Adult reforms to trans healthcare in UK. Mermaids struggling for funding. Shop Zero Nottingham losing their physical venue.
-- **Planning for:** [Robin Hood International Improv Festival](https://www.robinhoodimprov.co.uk/) in September. My talk at [Queer Arts Collective](https://nottinghamplayhouse.co.uk/project/nottinghams-queer-arts-collective/) in September.  My sister’s hen do in October. Learning lines for [Some Other Mirror performance in October](https://lambethfringe.com/events/some-other-mirrors). Still haven't got a set designer for The Prince in 2025. On committee for 2025-26 season at Lace Market Theatre. Looking for a house. Thinking about Christmas presents.
+- **Reading:** The Practice and Theory of Anarchism by Ruth Kinna, as well as two original plays from Lace Market Theatre members.
+- **Watching:** Kaos, Dimension 20: A Starstruck Odyssey, SortedFood, Gastronauts, Make Some Noise.
+- **Listening to:** [Radio Paradise](https://radioparadise.com/), which is a community internet radio that just always seems to be playing awesome music. I love their interface too, which shows the lyrics of the song playing, as well as album art, and a Wikipedia entry for the artist, as well as a box where you can see comments left by listeners over the years on currently playing songs.
+- **Wearing:** Red ski jacket, as it's cold out. I also had my [[badgejacket|photo taken in my badge jacket at CityArts]], so I've been trying to wear it more in case people recognise my cool jacket! I'm also wearing [a white poppy on behalf of the Peace Pledge Union](https://www.ppu.org.uk/remembrance-white-poppies), as it's the month of Rememberance.
+- **Excited about:** 
+- **Annoyed about:** 
+- **Planning for:**
