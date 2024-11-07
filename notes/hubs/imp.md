@@ -15,3 +15,4 @@ Improv fundamentally changed the way I made creative work. Maybe I will write ab
 - [[offerseconomy|Online improv, the offers economy, and lessons from D&D]]
 - [[imp-reincorp|Devising Games For A Purpose (Teaching Story, and Reincorporation)]]
 - [Interview with Stephen Davidson](https://impromiscuous.com/laurie-owen/)
+- [[gaulierweek|Blog of a week of training with Phillipe Gaulier in 2019]]
