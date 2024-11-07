@@ -1,0 +1,14 @@
+To build site and preview it locally:
+npm start
+
+To push new version of site to live:
+git push origin main 
+
+To add a new page to the site 
+1. Make a .md file somewhere in /notes, or one subfolder under /notes. It won't work properly anywhere else.
+
+To change the way pages look 
+edit default layout to change the way everything on the whole site looks.
+edit the 'note' layout to change the way things in /notes look
+add CSS on individual pages to tweat individual things.
+specify layout in the YAML to override and assign a different layout to a page.
