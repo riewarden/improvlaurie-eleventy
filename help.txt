@@ -12,3 +12,6 @@ edit default layout to change the way everything on the whole site looks.
 edit the 'note' layout to change the way things in /notes look
 add CSS on individual pages to tweat individual things.
 specify layout in the YAML to override and assign a different layout to a page.
+
+Add images 
+![](/assets/imagegoeshere)

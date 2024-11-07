@@ -1,3 +1,12 @@
+# Template
+- **Reading:** 
+- **Watching:** 
+- **Listening to:** 
+- **Wearing:** 
+- **Excited about:** 
+- **Annoyed about:** 
+- **Planning for:**
+
 # Nov 7th 2024
 insert last 'Now' here.
 
