@@ -9,12 +9,10 @@ A series of free monthly 2-hr workshops in which I, and a trained Speech and Lan
 
 #### 2024-25 Session Dates 
 *Bookings open:*
-- ~~16th September~~ - **SOLD OUT**
-- 28th October
-- 18th November
+- ~~18th November~~ **SOLD OUT!**
 - 16th December
 
-*Bookings not open:*
+*Bookings not yet open:*
 - 20th January
 - 17th February
 - 17th March
@@ -23,7 +21,20 @@ These are all Mondays, 6-8pm.
 
 [Book free tickets here.](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/)
 
+### City Arts - OUR QUEER FUTURE exhibition
+
+![](/assets/QUDhappy.jpg)
+
+*Until 19th December 2024*
+
+I was nominated as one of Nottingham's LGBT+ 'Community Heroes' by public vote. [Check out the exhibition page here](https://city-arts.org.uk/event/22596/our-queer-futures-notts-lgbtq-heroes/), and come see it in person. They photographed my [[badgejacket|jacket!]]
+
+
+
 ### Some Other Mirror
+
+![](/assets/SOMpromo.jpg)
+
 A continuously developing solo show about transitioning, and shaping one's masculine identity, which started development as a Zoom theatre show, made for university coursework, and is currently a touring, in-the-round, live theatre show with multimedia and interactive elements.
 
 - [Watch Some Other Mirror, Zoom, 2021](https://www.youtube.com/watch?v=ONU-EUteyLI)
@@ -31,11 +42,14 @@ A continuously developing solo show about transitioning, and shaping one's mascu
 - [[edfringe22|Read about Some Other Mirror at Edinburgh Fringe]]
 - [[SOM|Notes on Some Other Mirror]]
 
-**Next showing:** Lambeth Fringe, London, 7-8 October 2024, [Book Tickets](https://lambethfringe.com/events/some-other-mirrors)
 ### Club Wormhole
 A monthly alternative comedy night, showcasing unusual fringe acts from around the country. I am a co-organiser, co-writer and co-host of the show.
 
 _Find out more at the [Club Wormhole Facebook page.](https://www.facebook.com/ClubWormhole)_
+
+### Writing
+Read my longform pieces about theatre and improv [[theatrehub|right here.]]
+
 ## Future Projects
 ### The Prince (At Lace Market Theatre)
 I am directing the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre.
@@ -45,5 +59,6 @@ _Auditions are 15th and 17th April 2025._
 _More information to follow closer to the time._
 ## Past Projects
 - [[impromp|Impromptunes! Improvisational Piano Tutorials]] was an interactive web app made for Leeds International Piano Competition that taught newbies to improvise on the piano.
+
 ### Trans Drama Ensemble
 A series of monthly 2-hr workshops in which I taught a different topic from the world of theatre. 2024 sessions ran from March to July, and covered: Voice, Movement, Props, Light, Verbatim.
