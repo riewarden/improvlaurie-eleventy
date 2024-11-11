@@ -1,5 +1,5 @@
 ---
-title: On Theatre And AI
+title: On Theatre And Artificial Intelligence
 ---
 *Originally written 11th November 2024*
 
