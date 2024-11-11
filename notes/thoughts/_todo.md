@@ -1,2 +1,3 @@
-- Phillipe Gaulier Part 1 https://www.missimp.co.uk/2019/07/sophies-week-with-phillipe-gaulier-part-one/
-- Phillipe Gaulier Part 2 https://www.missimp.co.uk/2019/08/sophies-week-with-phillipe-gaulier-part-two/
+- transcribe my old British Comedy Reserve notes into shrines.
+- host my twine games and inklewriter games on my site
+- Post-improv practice
