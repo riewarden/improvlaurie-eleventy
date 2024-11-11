@@ -10,4 +10,4 @@ My theatre knowledge usually intertwines with my fascination with games and syst
 
 ## Articles about theatre
 - [[imp|Articles about improv]]
-- [[blg-theatreAI|On Improv and AI]]
+- [[blg-theatreAI|On Improv and Artificial Intelligence]]
