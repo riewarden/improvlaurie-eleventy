@@ -1,5 +1,6 @@
 ---
 title: On Theatre And Artificial Intelligence
+date: "2024-11-11"
 ---
 *Originally written 11th November 2024*
 
