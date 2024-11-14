@@ -19,5 +19,6 @@ This page contains helpful resources for anyone UK or Nottingham-based who is lo
 - [Pronouns Dressing Room](http://www.pronouns.failedslacker.com/) A simple web app that lets you put a name and a set of pronouns in, and inserts them into a block of text from a public-domain story, so you can see them in context.
 - [Gendered Intelligence](https://genderedintelligence.co.uk/about-us) Trans-led charity aiming to increase understanding of gender diversity and improve the lives of trans people. Provide training and consultancy on supporting trans people in the workplace, and work with the media to influence legislation.
 - [TransActual](https://transactual.org.uk/) CIC aiming to challenge misinformation about trans people in the UK media, and amplify trans voices. Also provide training and consultancy.
+- [TranzWiki](https://www.gires.org.uk/tranzwiki/) TranzWiki is a comprehensive directory of non-commercial groups and organisations supporting or assisting trans and gender diverse individuals, their families and friends across the UK.
 - [[transwish|Things I Wish I Knew Before Starting My Transition]] Blog by me.
 
