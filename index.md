@@ -21,12 +21,15 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 - [[now|What am I doing right now?]]
 ## My upcoming events
 Click below to book tickets for:
-- [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to April 2025* - Free monthly workshops on transgender voice technique. NOVEMBER NOW SOLD OUT!
+- [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to April 2025* - Free monthly workshops on transgender voice technique. NOVEMBER AND DECEMBER NOW SOLD OUT!
+- [This Old Thing?](https://www.eventbrite.co.uk/e/this-old-thing-tickets-1077368039809) *Sat 30th November, 10:30am-12pm, New Art Exchange Cafe* - An experimental panel discussion/workshop discussing clothes and gender, aimed anyone interested in talking about it, trans, cis, other.
+- [Creating a Solo Show](https://www.eventbrite.co.uk/e/ignite-creating-a-solo-show-tickets-1079155235359?aff=oddtdtcreator&fbclid=IwY2xjawGj7kRleHRuA2FlbQIxMQABHRD1i7Mm5zKP0wnuTG7ObWxUs83osLByLxbLaQJ-qcF2IkEeUa2xfwYNdw_aem_3VVJBbLziwZ9nfHorkOKBA) *Mon 27th Jan 2025, 7pm-8:30pm, Online* - Online workshop about devising your first solo show and designing rehearsal methods that work for your access needs.
 
 ## Resources
 Lists of local resources for topics I get asked about a lot.
 - [[transresources|Trans Resources (For Nottingham and more)]]
 - [[nottstheatre|Nottingham Theatre Resources]]
+- [[foodredist|Free food and food redistribution schemes in Nottingham]]
 
 ## My Mastodon Feed
 <a class="mastodon-feed" href="https://zirk.us/@riewarden" data-toot-limit="3">follow me into the Fediverse</a>
