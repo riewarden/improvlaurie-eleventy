@@ -58,7 +58,15 @@ _Auditions are 15th and 17th April 2025._
 
 _More information to follow closer to the time._
 ## Past Projects
-- [[impromp|Impromptunes! Improvisational Piano Tutorials]] was an interactive web app made for Leeds International Piano Competition that taught newbies to improvise on the piano.
+
+### This Old Thing?
+![](/assets/ThisOldThing/totsnapshot.jpg)
+
+A workshop run as part of the Notts Trans Hub residency at The New Art Exchange. I facillitated a discussion about clothes and gender, and turned peoples' words into an awesome, colourful, sprawling mind map! [[thisoldthing|Read more here.]]
 
 ### Trans Drama Ensemble
 A series of monthly 2-hr workshops in which I taught a different topic from the world of theatre. 2024 sessions ran from March to July, and covered: Voice, Movement, Props, Light, Verbatim.
+
+### Impromptunes!
+- [[impromp|Impromptunes! Improvisational Piano Tutorials]] was an interactive web app made for Leeds International Piano Competition that taught newbies to improvise on the piano.
+
