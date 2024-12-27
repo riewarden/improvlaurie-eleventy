@@ -45,6 +45,7 @@ eleventyConfig.addFilter("postDate", (dateObj) => {
     });
     
     eleventyConfig.addPassthroughCopy('assets');
+    eleventyConfig.addPassthroughCopy('robots.txt');
     eleventyConfig.setUseGitIgnore(false);
     
 
