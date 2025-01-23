@@ -20,7 +20,7 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 - [[_thoughtghome|My thought garden]]
 - [[now|What am I doing right now?]]
 ## My upcoming events
-- ❗[The Prince: AUDITION NOTICE](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559) *15-16th April* Come and audition for my production of *The Prince* by Abigail Thorn. Full details on the link.
+- ❗[The Prince: AUDITION NOTICE](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559) *15/17th April* Come and audition for my production of *The Prince* by Abigail Thorn. Full details on the link.
 Click below to book tickets for:
 - [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to Feb 2025* TICKETS STILL LEFT FOR FEB!!
 - [Creating a Solo Show](https://www.eventbrite.co.uk/e/ignite-creating-a-solo-show-tickets-1079155235359?aff=oddtdtcreator&fbclid=IwY2xjawGj7kRleHRuA2FlbQIxMQABHRD1i7Mm5zKP0wnuTG7ObWxUs83osLByLxbLaQJ-qcF2IkEeUa2xfwYNdw_aem_3VVJBbLziwZ9nfHorkOKBA) *Mon 27th Jan 2025, 7pm-8:30pm, Online* Online workshop about devising your first solo show and designing rehearsal methods that work for your access needs.
