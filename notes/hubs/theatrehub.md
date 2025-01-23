@@ -11,3 +11,4 @@ My theatre knowledge usually intertwines with my fascination with games and syst
 ## Articles about theatre
 - [[imp|Articles about improv]]
 - [[blg-theatreAI|On Theatre and Artificial Intelligence]]
+- [[good-theatre|How To See More Good Theatre]]

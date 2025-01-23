@@ -33,6 +33,8 @@ You should try improv! This is a type of theatre where you make it up as you go 
 - [Lakeside Arts Theatre](https://www.lakesidearts.org.uk/)
 - [Nottingham New Theatre](https://newtheatre.org.uk/)
 
+Also, check out my blog about [[good-theatre|how to see more good theatre]].
+
 ## Other Theatre Groups
 - [Nottingham Shakespeare Company](https://nottinghamshakespeare.co.uk/)
 - [Beeston Musical Theatre Group](https://bmtg.org.uk/)
