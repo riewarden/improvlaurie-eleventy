@@ -42,8 +42,6 @@ _Find out more at the [Club Wormhole Facebook page.](https://www.facebook.com/Cl
 ### Writing
 Read my longform pieces about theatre and improv [[theatrehub|right here.]]
 
-## Future Projects
-
 ## Past Projects
 
 ### City Arts - OUR QUEER FUTURE exhibition
