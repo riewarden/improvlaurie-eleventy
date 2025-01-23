@@ -1,12 +1,12 @@
 ---
 title: Now
 ---
-- **Reading:** Nothing. But just ordered some exciting new books with some money from the NAE.
-- **Watching:** The Midnight Gospel, Over The Garden Wall, Hilda, Ashens Advent Calendar.
-- **Listening to:** Christmas songs, Radio Paradise and the Ferment Radio Podcast.
-- **Wearing:** Red ski jacket, black shiny leather boots, and a mustard coloured cowl that I crocheted at Fake Christmas.
-- **Excited about:** Giving my Christmas presents to Rory and James. Decanting Limoncello with Rory, visiting the sauna with james. People tasting the edible gifts I made for them. Thinking about silly fun stuff to do over Christmas, playing 'Thank Goodness You're Here', finishing 'Chants of Senaar', New Year's with Rory. 
-- **Annoyed about:** Work, automation, new software at work, the puberty blockers ban.
-- **Planning for:** Stuff to do over xmas, potentially host my own server with some equipment from my cousin, read books, finish a sculpture of a mouse head that I've been working on forever.
+- **Reading:** *Decentered Playwrighting* by Various, and *Towards a Poor Theatre* by Jerzy Grotowski
+- **Watching:** *Shakespeare in the Present* by Patsy Rodenburg, and Game Grumps.
+- **Listening to:** An audiobook of *Dune* by Frank Herbert
+- **Wearing:** James' jumpers, Rory's shirts, jeans that I've had to darn about 3 times. Shiny black Solovair boots that I am learning to maintain properly.
+- **Excited about:** [Auditions for The Prince](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559) (A production I am directing from April). Robin Hood Improv planning. Starting to use Plex for organising my media. 3-year anniversary with Rory this weekend, 2-year anniversary with James next month.
+- **Annoyed about:** America. [Jubilee Park Medical Partnership](https://metro.co.uk/2025/01/18/trans-patients-face-detransition-gp-abruptly-withdraws-treatment-22364100/). 
+- **Planning for:** My future as an educator and theatremaker. I'm thinking of starting a business to collect together the various arts activities and community aspirations I have, make myself look more professional, and also make it easier to get access to certain kinds of funding and sponsorship.
 
 [[nowarchive|(Now archive)]]

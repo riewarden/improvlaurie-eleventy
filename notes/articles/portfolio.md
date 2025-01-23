@@ -4,32 +4,24 @@ title: Portfolio
 This is a summary of projects that are most relevant to what I currently offer as a practitioner. To view my official CV and contact details, [Click Here](/assets/cv-june-2024.pdf)
 
 ## Current Projects
+
+### The Prince (At Lace Market Theatre)
+I am directing the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre.
+
+_Auditions are 15th and 17th April 2025._
+
+[Full details on how to audition.](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559)
+
 ### Trans Voice Workshops (2024-25 Workshops Now Booking!)
 A series of free monthly 2-hr workshops in which I, and a trained Speech and Language Therapist (specialising in trans voice) teach the basics of altering the gender of one's voice. Half of the workshop covers physical vocal skills, and the other half is about building the confidence to speak in front of others.
 
 #### 2024-25 Session Dates 
-*Bookings open:*
-- ~~18th November~~ **SOLD OUT!**
-- 16th December
-
-*Bookings not yet open:*
-- 20th January
-- 17th February
-- 17th March
+- ~~20th January~~
+- **17th February** Tickets still available! 
 
 These are all Mondays, 6-8pm.
 
 [Book free tickets here.](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/)
-
-### City Arts - OUR QUEER FUTURE exhibition
-
-![](/assets/QUDhappy.jpg)
-
-*Until 19th December 2024*
-
-I was nominated as one of Nottingham's LGBT+ 'Community Heroes' by public vote. [Check out the exhibition page here](https://city-arts.org.uk/event/22596/our-queer-futures-notts-lgbtq-heroes/), and come see it in person. They photographed my [[badgejacket|jacket!]]
-
-
 
 ### Some Other Mirror
 
@@ -51,13 +43,16 @@ _Find out more at the [Club Wormhole Facebook page.](https://www.facebook.com/Cl
 Read my longform pieces about theatre and improv [[theatrehub|right here.]]
 
 ## Future Projects
-### The Prince (At Lace Market Theatre)
-I am directing the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre.
 
-_Auditions are 15th and 17th April 2025._
-
-_More information to follow closer to the time._
 ## Past Projects
+
+### City Arts - OUR QUEER FUTURE exhibition
+
+![](/assets/QUDhappy.jpg)
+
+*Until 19th December 2024*
+
+I was nominated as one of Nottingham's LGBT+ 'Community Heroes' by public vote. [Check out the exhibition page here](https://city-arts.org.uk/event/22596/our-queer-futures-notts-lgbtq-heroes/), and come see it in person. They photographed my [[badgejacket|jacket!]]
 
 ### This Old Thing?
 ![](/assets/ThisOldThing/totsnapshot.jpg)

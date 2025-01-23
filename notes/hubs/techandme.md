@@ -5,6 +5,8 @@ Sometimes when I get stressed, I start coding. Coding can be frustrating of cour
 
 I've also been frustrated with [[powerauto|the introduction of PowerAutomate]] to jobs like office administration, which are normally totally separate to software development.
 
+I'm also on a long quest to gradually [[decouple-quest|decouple myself]] from proprietary software.
+
 
 
 
