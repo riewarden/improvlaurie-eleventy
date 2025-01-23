@@ -21,13 +21,13 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 - [[now|What am I doing right now?]]
 ## My upcoming events
 Click below to book tickets for:
-- [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to April 2025* Free monthly workshops on transgender voice technique. NOVEMBER AND DECEMBER NOW SOLD OUT!
+- [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to Feb 2025* TICKETS STILL LEFT FOR FEB!!
 - [Creating a Solo Show](https://www.eventbrite.co.uk/e/ignite-creating-a-solo-show-tickets-1079155235359?aff=oddtdtcreator&fbclid=IwY2xjawGj7kRleHRuA2FlbQIxMQABHRD1i7Mm5zKP0wnuTG7ObWxUs83osLByLxbLaQJ-qcF2IkEeUa2xfwYNdw_aem_3VVJBbLziwZ9nfHorkOKBA) *Mon 27th Jan 2025, 7pm-8:30pm, Online* Online workshop about devising your first solo show and designing rehearsal methods that work for your access needs.
-- [Skylight at Lace Market Theatre, 13-18 Jan 2025](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?Programme=6719568) I'm not in this one, but I am doing sound design. Come see it!
+- [An Evening With Tabby Lamb](https://www.ticketsource.co.uk/null/t-qjomnre) *Thur 30th Sept, 7-9pm, Online* A seminar/workshop with transfem nonbinary playwright Tabby Lamb, all about making a career in the arts as a trans person. 
 
 ## Featured Articles
 - [[thisoldthing|This Old Thing debrief]] A summary of the wonderful workshop I ran, where people talked about clothes and I turned it into a colourful mindmap, with photos and a large-scale image of the mindmap with everyone's thoughts.
-- [[recipefoodgifts|Really Easy Food Gifts]] Panicking about Christmas presents? Why not make something! This page collects tons of ideas for low-cost, low-effort edible gifts that don't go moldy immediately.
+- [[good-theatre|How To See More Good Theatre]] A guide on how to avoid wasting money on rubbish shows and see theatre that excites and challenges you.
 - [[badgejacket|Queer Up Duck Exhibition photos]] A collection of the photos taken of me for the Queer Up Duck LGBT Community Heroes exhibition.
 
 ## Resources
