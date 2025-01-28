@@ -9,7 +9,7 @@ A log of my progress moving away from software that requires me to rent services
 ## In Progress
 - **Cloud Storage** *28/01/25* In the past few months, I've been trying out [NextCloud](https://nextcloud.com/install/), using a free account, provided by a company. I've been trying to use it more lately but its AutoUpload is a little bit unreliable. Everything syncs, just usually within an hour rather than seconds, which is annoying but not critically damaging. I have pretty much stopped using Google Photo to back up photos from my phone, which feels like a win. I haven't tested how good it is at collaborative editing. I'm sure it could be better if I self-hosted, but I'm not in a position to do that yet. 
 
-- Currently, I have been trying out NextCloud using a free instance hosted by Tab.Digital, but their plans don't scale for me that well. You can either have a free account with 8gb, or a huge business account for £40 a month. So I'm looking at other companies that offer managed instances.
+- Currently, I have been trying out NextCloud using a free instance hosted by Tab.Digital.
 
 - **Media Center** *23/01/25* This week, I've started using Plex to organise films and TV, and I really like it so far. I don't have a way to serve to my phone remotely, but it's just nice to finally be able to organise all my random videos. I have several DVDs of acting masterclasses and recordings of plays, which are a faff to get out during classes to show as examples. This system will hopefully make it much easier to access what I need.
 
