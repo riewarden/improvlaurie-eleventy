@@ -20,16 +20,14 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 - [[_thoughtghome|My thought garden]]
 - [[now|What am I doing right now?]]
 ## My upcoming events
-- ❗[The Prince: AUDITION NOTICE](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559) *15/17th April* Come and audition for my production of *The Prince* by Abigail Thorn. Full details on the link.
+- [⭐The Prince: AUDITION NOTICE](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559) *15/17th April* Come and audition for my production of *The Prince* by Abigail Thorn. Full details on the link.
 Click below to book tickets for:
 - [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to Feb 2025* TICKETS STILL LEFT FOR FEB!!
-- [Creating a Solo Show](https://www.eventbrite.co.uk/e/ignite-creating-a-solo-show-tickets-1079155235359?aff=oddtdtcreator&fbclid=IwY2xjawGj7kRleHRuA2FlbQIxMQABHRD1i7Mm5zKP0wnuTG7ObWxUs83osLByLxbLaQJ-qcF2IkEeUa2xfwYNdw_aem_3VVJBbLziwZ9nfHorkOKBA) *Mon 27th Jan 2025, 7pm-8:30pm, Online* Online workshop about devising your first solo show and designing rehearsal methods that work for your access needs.
-- [An Evening With Tabby Lamb](https://www.ticketsource.co.uk/null/t-qjomnre) *Thur 30th Sept, 7-9pm, Online* A seminar/workshop with transfem nonbinary playwright Tabby Lamb, all about making a career in the arts as a trans person. 
 
 ## Featured Articles
+- [[blg-adreamof|⭐A dream for an arts industry outside proprietary software]] A rant about how the UK arts industry should move towards Libre/Free Software.
 - [[thisoldthing|This Old Thing debrief]] A summary of the wonderful workshop I ran, where people talked about clothes and I turned it into a colourful mindmap, with photos and a large-scale image of the mindmap with everyone's thoughts.
 - [[good-theatre|How To See More Good Theatre]] A guide on how to avoid wasting money on rubbish shows and see theatre that excites and challenges you.
-- [[badgejacket|Queer Up Duck Exhibition photos]] A collection of the photos taken of me for the Queer Up Duck LGBT Community Heroes exhibition.
 
 ## Resources
 Lists of local resources for topics I get asked about a lot.
