@@ -19,6 +19,9 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 - [[portfolio|My professional theatre portfolio]]
 - [[_thoughtghome|My thought garden]]
 - [[now|What am I doing right now?]]
+- [[decouple-quest|My quest to remove Google, Microsoft and other proprietary software from my life]]
+
+
 ## My upcoming events
 - [⭐The Prince: AUDITION NOTICE](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559) *15/17th April* Come and audition for my production of *The Prince* by Abigail Thorn. Full details on the link.
 Click below to book tickets for:
