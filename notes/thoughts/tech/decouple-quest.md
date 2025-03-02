@@ -1,6 +1,6 @@
 ---
 title: Trying to decouple myself from proprietary software
-date: 2025-02-11
+date: 2025-03-02
 ---
 A log of my progress moving away from software that requires me to rent services from companies.
 
