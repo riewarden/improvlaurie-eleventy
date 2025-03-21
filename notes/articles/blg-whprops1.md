@@ -25,12 +25,12 @@ If the prop was a character in your show, how is the show made better by its inc
 ### Find a look and feel for the prop
 To figure out what I want a prop to look like, I usually go use a search engine to look for cartoon versions of the prop, and compare these with photographs of the prop. You shouldn't steal an artist's distinctive style, but good cartoonists know how to take complex objects and break them down into simple shapes, symbols and silhouettes. You can learn a lot from observing the work of many cartoonists, and understanding how they each break down an object in their own way. For your prop to have an effective design, you need to make sure the audience can understand what it is as quickly as possible. 
 
-As you are looking at reference images, write down notes and draw doodles that answer the following questions. (E.g: Imagine you want to make a polar bear prop).
+As you are looking at reference images, write down notes and draw doodles that answer the following questions. (E.g: Imagine you want to make a **[polar bear]** prop, but substitute **[polar bear]** for anything).
 
-- What are the first three things I notice about a polar bear? (Keep these to single words.)
-- How should the audience react emotionally when they see the polar bear? (scared, laugh, 'awww cute', etc)
-- Are there any sensorial things that you would expect from being in the same space as a polar bear (e.g soft fur, growl, fishy smell, sharp claws)
-- Is there anything an audience might mistake a polar bear prop for, and is there anything I can incorporate into my design that will help them understand that this definitely is a polar bear? (e.g, they might think it's supposed to be an arctic husky dog, so I will make sure the design includes rounded ears, and a fish hanging from its jaws)
+- What are the first three things I notice about a **[polar bear]**? (Keep these to single words.)
+- How should the audience react emotionally when they see the **[polar bear]**? (scared, laugh, 'awww cute', etc)
+- Are there any sensorial things that you would expect from being in the same space as a **[polar bear]** (e.g soft fur, growl, fishy smell, sharp claws)
+- Is there anything an audience might mistake a **[polar bear]** prop for, and is there anything I can incorporate into my design that will help them understand that this definitely is a **[polar bear]**? (e.g, they might think it's supposed to be an arctic husky dog, so I will make sure the design includes rounded ears, and a fish hanging from its jaws)
 
 **I think silhouettes are very important for designing a prop that the audience can quickly understand when they see it.** If you want to know more about why this is, look up 'negative space' or 'ma'. Essentially, what you need to think about is: if your prop had no paint on it, how could the audience still guess what it was? You should have some sort of answer to this question in order to generate a strong design. This might not simply be down to the shape, it might also suggest a texture, or a movement that the prop should have. 
 
