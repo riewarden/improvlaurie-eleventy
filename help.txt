@@ -15,3 +15,5 @@ specify layout in the YAML to override and assign a different layout to a page.
 
 Add images 
 ![](/assets/imagegoeshere)
+
+date format - yyyy-mm-dd

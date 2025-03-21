@@ -1,0 +1,18 @@
+---
+title: Creating space for non-techs in the FOSS movement
+date: 2025-03-25
+---
+
+I think there is not much written about NextCloud from the perspective of individuals who are not interested in learning to self-host (either on-premises, or remotely). I see an awful lot of people on Reddit claiming that the 'easiest' or 'best' way to use NextCloud is to self host. I appreciate this argument is valid for certain types of setups, particularly for lowest cost, maximum privacy, and maximum customisation, not to mention distributing the environmental cost of cloud servers, but I think it's obtuse to claim self-hosting is best for everyone and that's the end of the conversation. There are so many reasons why we need to champion options outside self-hosting, and I think a very important metric to factor in is 'hassle'.
+
+I work in the theatre industry, where there is a hugely varying amount of 'tech literacy'. You have Technical Managers of large theatres and arenas, who have to have an intricate understanding of hundreds of different pieces of A/V hardware ranging from the modern day to 1960, installed in buildings that are sometimes hundreds of years old. They need to understand IOT networking, electronics maintenance, MIDI/OSC controllers, and perhaps oversee the building of bespoke networked hardware that has to work as part of a live performance every night, in 20 different venues in 3 countries. These are the kind of people who can quickly get to grips with something like NextCloud, and understand how to research this technology for a particular use case.
+
+You also get other creatives in theatre who are far less exposed to technology in their day-to-day, and are not required to be technologically adept. For example, I have met plenty of actors, directors, and writers who struggle with anything technological outside of centralised social media or email. These are the people who rely on Google Drive, OneDrive, Microsoft, and increasingly are vulnerable to being swindled by AI snake oil. They're also people who are fantastic communicators, who seek authenticity, who stand for the liberation of communities, and who uplift the voices of the forgotten. I.e, exactly the kind of people who are needed in the FOSS movement to make is feel achievable for everyone.
+
+I have also met plenty of creatives in these fields who have skill sets that include both of these areas.
+
+Something that is common across theatre and the arts, is having to spend lots of time teaching yourself to do, and then doing, boring things that aren't art, and it's so fking annoying. The biggest one of these is accounting. Many freelancers start out having to do their own accounts, because they can't afford to employ someone to just do it for them. That alone is enough of a pain, than also having to learn stuff like the back-end of cloud hosting!
+
+You can argue all you like about 'well everyone SHOULD understand certain parts of technology for political liberation and resistance to surveillance capitalism' and I 100% agree with this, and I think that has to be a continual mentorship in FOSS spaces. I believe more people will come to understand and believe in FOSS principles over time, particularly once non-techy people are enmeshed within the FOSS movement. But, I think if 'you should just self-host everything' is the only way in, a lot of people will look at their watch and say:
+
+'Ok, this sounds nice, but I'm working on collaborative projects with 5 different teams, and we're all broke. We need something that just 'works', that we can afford, and that we're not going to argue about. At the moment, the solution is Google Drive, so I can't go along with this'.
