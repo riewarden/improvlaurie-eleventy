@@ -2,7 +2,7 @@
 title: Wormhole Props Part 2 - Drawing a plan for a prop build
 date: 2025-03-25
 ---
-This is part 3 of a 3-part series on how I make props for Club Wormhole. 
+This is part 2 of a 3-part series on how I make props for Club Wormhole. 
 - [[blg-whprops1|Click here to read Part 1 - Getting the idea for a prop]] 
 - [[blg-whprops3|Click here to read Part 3 - Building and painting a prop]]
 
