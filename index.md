@@ -24,13 +24,12 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 
 ## My upcoming events
 - [⭐The Prince: AUDITION NOTICE](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559) *15/17th April* Come and audition for my production of *The Prince* by Abigail Thorn. Full details on the link.
-Click below to book tickets for:
-- [Trans Voice](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/) *Sept 2024 to Feb 2025* TICKETS STILL LEFT FOR FEB!!
+- [⭐CLUB WORMHOLE - A GOOD FRIDAY TO DIE HARD](https://www.ticketsource.co.uk/whats-on/nottingham/fisher-gate-point/club-wormhole-presents-a-good-friday-to-die-hard/e-ajxaly) *Mon 7th April 2025* Everyone knows that Die Hard is an Easter Play. Come join the fun, see sketches, and three incredible guest stand-ups. Not to be missed!
 
 ## Featured Articles
-- [[blg-adreamof|⭐A dream for an arts industry outside proprietary software]] A rant about how the UK arts industry should move towards Libre/Free Software.
+- [[blg-whprops1|⭐Making Big Silly Props Out of Cardboard]] A 3-part series sharing everything I've learned about making props for Club Wormhole.
+- [[blg-adreamof|A dream for an arts industry outside proprietary software]] A rant about how the UK arts industry should move towards Libre/Free Software.
 - [[thisoldthing|This Old Thing debrief]] A summary of the wonderful workshop I ran, where people talked about clothes and I turned it into a colourful mindmap, with photos and a large-scale image of the mindmap with everyone's thoughts.
-- [[good-theatre|How To See More Good Theatre]] A guide on how to avoid wasting money on rubbish shows and see theatre that excites and challenges you.
 
 ## Resources
 Lists of local resources for topics I get asked about a lot.
