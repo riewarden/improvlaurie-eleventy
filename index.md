@@ -23,13 +23,11 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 
 
 ## My upcoming events
-- [⭐The Prince: AUDITION NOTICE](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559) *15/17th April* Come and audition for my production of *The Prince* by Abigail Thorn. Full details on the link.
-- [⭐CLUB WORMHOLE - A GOOD FRIDAY TO DIE HARD](https://www.ticketsource.co.uk/whats-on/nottingham/fisher-gate-point/club-wormhole-presents-a-good-friday-to-die-hard/e-ajxaly) *Mon 7th April 2025* Everyone knows that Die Hard is an Easter Play. Come join the fun, see sketches, and three incredible guest stand-ups. Not to be missed!
+- [⭐The Prince: BOOK TICKETS](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?Programme=6719600&Tab=performances) *21-26th July* Come and see my production of *The Prince* by Abigail Thorn. Full details on the link.
 
 ## Featured Articles
+- [[blg-loveletter|⭐The theatre needs trans people, and trans people need the theatre]] My rant on the Supreme Court ruling and a love letter to all the kickass trans people I couldn't cast to keep fighting and keep theatre-ing.
 - [[blg-whprops1|⭐Making Big Silly Props Out of Cardboard]] A 3-part series sharing everything I've learned about making props for Club Wormhole.
-- [[blg-adreamof|A dream for an arts industry outside proprietary software]] A rant about how the UK arts industry should move towards Libre/Free Software.
-- [[thisoldthing|This Old Thing debrief]] A summary of the wonderful workshop I ran, where people talked about clothes and I turned it into a colourful mindmap, with photos and a large-scale image of the mindmap with everyone's thoughts.
 
 ## Resources
 Lists of local resources for topics I get asked about a lot.

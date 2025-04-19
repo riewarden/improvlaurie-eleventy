@@ -17,26 +17,30 @@ You should try improv! This is a type of theatre where you make it up as you go 
   
 ### I want to be backstage.
   - [Join Lace Market Theatre,](https://lacemarkettheatre.co.uk/) and on sign-up, express interest in helping backstage, and operating tech. This is a great way to meet experienced crew, and learn the ropes. You can do the same with any amateur group, but LMT has the advantage of owning their own auditorium and costume store.
-  - [Theatre Crafts Books List](https://archive.org/details/@riewarden/lists/2/theatre-crafts) This is a list of free online Archive.org books about building things for theatre.
+  - [Theatre Crafts Books List](https://archive.org/details/@riewarden/lists/2/theatre-crafts) This is a list of free online Internet Archive books about building things for theatre.
   
-### I want to write.
+### I want to write (or just read) plays.
   - **Join a play reading group** to meet other people interested in text for stage.
     - [Encore Performing Arts](https://www.facebook.com/encorenottingham) have started running a play reading group, advertised on Facebook.
+    - [Outspoken Acts](https://www.theprideshop.co.uk/contact-us/) is an LGBTQIA+ play reading group. They don't have an online presence, so if you want to get involved, the link goes to the 'Contact' page of their venue, The Pride Shop, who can pass your details on to the right person. Outspoken Acts have a WhatsApp group and mailing list.
   - **Join a writer's group** or participate in writing workshops.
     - [Nottingham Playhouse Writer's Room](https://nottinghamplayhouse.co.uk/for-artists/amplify/writers-group/)
     - [Nottingham Writer's Studio Events](https://www.eventbrite.co.uk/cc/workshops-2613409)
     - [Writing East Midlands List of Groups](https://writingeastmidlands.co.uk/for-writers/writing-groups/writing-groups-nottinghamshire/)
 
 ## Theatres You Can Visit
-- [Lace Market Theatre](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn)
-- [Nottingham Playhouse](https://nottinghamplayhouse.co.uk/)
-- [Lakeside Arts Theatre](https://www.lakesidearts.org.uk/)
-- [Nottingham New Theatre](https://newtheatre.org.uk/)
+- [Lace Market Theatre](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn) Amateur theatre with a 100 year history, high production values, and their own auditorium. One of the most affordable way to see live theatre in Nottingham, tickets are between £10-15. LMT are a volunteer-run charity.
+- [Nottingham Playhouse](https://nottinghamplayhouse.co.uk/) Nottingham's primary regional theatre, who present a variety of in-house and touring professional productions from big musicals to intimate studio pieces. They also host fringe theatre festivals, community theatre workshops, professional development opportunities and more.
+- [Lakeside Arts Theatre](https://www.lakesidearts.org.uk/) Based at The University of Nottingham, Lakeside Arts Center has an eclectic and sophisticated programme of performing arts, music, lectures, dance, puppetry, children's shows, fine art, sculpture, and more.
+- [Nottingham New Theatre](https://newtheatre.org.uk/) Also based at The University of Nottingham, this is England's only entirely student-run theatre. NNT put on a variety of productions, emphasising UON students in the onstage and backstage teams, but which are open for anyone to watch. Their annual festival 'StUFF' is a low-cost platform to show and see exciting fringe theatre, made by students and professionals.
 
 Also, check out my blog about [[good-theatre|how to see more good theatre]].
 
 ## Other Theatre Groups
-- [Nottingham Shakespeare Company](https://nottinghamshakespeare.co.uk/)
+These groups don't have their own theatre buildings, but are creating fantastic productions.
+
+- [Nottingham Shakespeare Company](https://nottinghamshakespeare.co.uk/) A diverse company who perform two productions a year, with shows popping up in a variety of locations around Nottinghamshire.
+- [LEOS Musical Theatre](https://www.leosmtc.co.uk/) Long Eaton based, they champion disabled and neurodivergent performers.
 - [Beeston Musical Theatre Group](https://bmtg.org.uk/)
 - [Carlton Operatic Society](https://www.carltonoperatic.com/)
 - [West Bridgford Operatic Society](https://www.westbridgfordoperaticsociety.co.uk/)
