@@ -1,0 +1,143 @@
+---
+title: How To Speak Up While Trans
+date: 2025-04-23
+---
+
+My name is Laurie, I'm a trans theatre professional, and for the past couple of years I have collaborated with Speech and Language Therapists to deliver 'Trans Voice Workshops' at Nottingham Playhouse. The focus for this blog post is not 'trans voice', but rather, public speaking for trans people. These are some hints and tips and rules of thumb for speaking to crowds, and how to develop a speaking voice that helps you communicate more loudly, clearly and confidently, particularly at a protest where you may want to read a speech or tell a story to a crowd. I'm not a seasoned protestor by any means, but I have a lot of suggestions based on my experience in an adjacent field: theatre.
+
+It's a long post, but I wanted to cover voice skills that I regularly see trans people struggling with, in the voice classes and in other contexts. I have tried to break this down into: Breath, Articulation, Intonation, and Participation. I have also included exercises that help you work on all of these skills. I'm going to draw a little on clinical stuff I have learned from working with SLTs, but primarily on my training as theatremaker, as well as my experience acting and directing in Shakespeare.
+
+## Breath
+
+People make fun of the way actors seem to bang on about breathing, and how they spend literally weeks learning to do it 'properly' at drama school. How hard can it possibly be to breathe and speak at the same time? Well, pretty hard. Classically trained actors can whisper, and somehow still be heard at the back of a 500 seat auditiorium, because they have exceptional breath control, honed over years of practice. Breath is the fundamental building block of every voice, and you can spend a lifetime learning to use it properly.
+
+Many people, when they breathe in, raise their shoulders and chest, and let them drop, to push the air out. It's a very common habit. However, this is not a very efficient way of breathing, and it doesn't support a healthy and clear speaking voice. The reason for this is that your shoulders become tense, and this tension squeezes your throat and voicebox, putting unnecessary strain on the vocal folds, which makes it require more effort for you to make sound. It also means that your lungs are mainly expanding into the top of the chest cavity, where there is hardly any space to hold air, because the top of your ribcage is in the way.
+
+The first step to a healthy voice that can withstand the challenges of public speaking is to learn to breathe 'from the diaphragm'.
+
+### Breathing from the diaphragm
+
+The diaphragm is a dome-like muscle, just under your ribcage. When you breathe in, the top of the dome dips, and pushes out your stomach and other organs into the lower half of your abdomen, as air rushes into the lungs. When you breathe out, the muscle pushes air back out of the lungs, and reforms into a dome shape. 
+
+![an animation of a body showing the diaphragm moving down on inhalation, and up on exhalation](/assets/blg-speakup-dia.gif)
+
+1. Try taking three deep breaths, normally. Where does your body move to accomodate your breath? Is it in your diaphragm already, or are your shoulders and your chest rising? Where do you start feeling tension?
+2. Then, put your hands on your head, and try taking three deep breaths again, focusing on pushing the air down, into your abdomen. Putting your hands on your head makes it more automatic to breathe from the diaphragm without raising your chest. 
+3. Now, take your hands off your head, put them on your chest, and try to take three deep breaths, into your abdomen, without letting your chest rise. This is breathing from your diaphragm.
+
+Breathing from the diaphragm gives you two important tools. First of all, you have a much greater space for your lungs to expand into, and the more you practice breathing, the greater this capacity will become over time. Secondly, when your breath is exhaled to create sound, rather than it being forcefully pushed over your vocal folds, by the gravity of your shoulders dropping, it is being gradually pushed out by the diaphragm, under the control of your muscles. If you practice breathing, over time, your diaphragm gets stronger, and you have more and more control over the rate at which air is pushed over your vocal folds. 
+
+The combination of expanded lung capacity, and increased muscular control over the lungs is why actors can cope with the challenge of projecting to hundreds of people in gigantic auditoriums, nearly every day for months on end, without losing their voice. Stage actors are not simply extroverted people who happened to be born with loud voices. 
+
+### Speaking from the diaphragm (projecting)
+Projecting is not the same as shouting. Shouting is using all your muscles to force air across your vocal folds in a sudden and extreme way. Projecting is using your muscles, breath, and vocal folds efficiently to create the loudest, clearest sound, which can be maintained in a sustainable manner.
+
+If you don't have a room in your house to practice projection in, go to an open space, like a big park, with a friend, and either have them listen to you practice, or, have a conversation which is a bit louder than normal. Just make sure you walk slowly and don't get out of breath, and be aware it is harder to be heard outdoors than inside a house. You could also join a group like a community choir, where it is normal to do voice exercises, and you will have access to good spaces in which to practice them, and people who can help you if you get stuck.
+
+An exercise for projection: 
+1. Look ahead, and imagine an invisible target, a few meters away. 
+2. Take a deep breath with your diaphragm, start speaking, and imagine your voice is hitting the invisible target. You can read a speech, a poem, talk about what you had for breakfast, it doesn't matter. If your voice starts to hurt immediately, take some time to make sure you aren't tensing your upper body, move the invisible target closer, and start from there. 
+3. Try to speak and hit your target for 20 seconds. Take a break for 20 seconds, and do another 20 seconds of speaking. 
+4. If you feel confident, move your target further away and continue. 
+5. In the beginning, particularly if you have no experience with public speaking, try not to do this for longer than a total of 5 minutes every couple of days, to avoid straining your voice.
+
+Keep working on your voice, and moving this target further and further, and speaking for longer periods of time. You may find that you can practice in everyday conversations too!
+
+### Most people can learn this
+
+Stage actors spend years training their voices to do incredible feats of communication. But, most people have a working voicebox. Most people have a working pair of lungs. And so, most people have a voice, and most people can learn this stuff.
+
+The voice is waiting right there, in our bodies. Maybe the voice is battered and bruised by anxiety, and bullying, and dysphoria. But our voices are still there. And no matter how small, and how buried your voice is, there is nothing stopping you from nurturing it, so that it may rise again, and bring you with it.
+
+Practice diaphragmatic breathing, every day, and not just as an exercise. Stop using your chest to breathe, and start using your diaphragm instead. Use your diaphragm, with every breath, until you don't need to think about it. Breath is the fundamental skill. Making this adaptation to your breathing is very low effort, but it will transform the control that you have over your voice.
+
+If you have a protest speech, practice it, and mark on the page where it makes sense to breathe. Rule of thumb, one idea, one breath. With every breath, make sure that you don't run out of breath at the end of your idea, and go quiet at the end. Make sure you start and finish precisely.
+
+### Addendum: Using a microphone
+
+Microphones are tricky. Each one works slightly differently, and at a protest, you don't usually get a chance to practice with it. My tips:
+
+- Don't mumble into a mic at normal conversation level, and don't scream into a mic at the top of your voice. Both of these will render you unintelligible. Microphones don't automatically make you easier to understand, they just make you louder. Microphones actually make your voice harder to understand because of the physics of amplification and acoustics, so you need to overcompensate with your vocal delivery to correct this (which is what the rest of this article is about). Microphones are garbage in, garbage out. Speak loudly and articulately into them.
+- Hold the microphone close to your mouth, and aim your voice into it. Often, I see people holding microphones 20cm or so in front of their face, or, they speak over the top of it, so that the sound waves of their voice never actually connect with the hardware inside.
+- Don't be afraid to check that you can be heard, before you start reading a speech, and ask people to indicate to you if you start to become quiet.
+
+## Articulation
+
+The word 'articulation' can put some people on edge. Calling someone 'articulate' is often used by middle-class people in a well-meaning but ultimately patronising way, to refer to someone who passes as 'educated'. A person should not need to pass as 'educated' to have the right to speak at a protest. This is not what I mean when I say someone is 'articulate'. 
+
+A big misconception about contemporary voice training is that it teaches you to sound posh. This certainly used to be the main purpose of voice training, but in the past 50 years, practitioners like Patsy Rodenburg have pushed back against these notions, and instead focus on making the natural voice of each person as powerful as possible. 
+
+When I say 'an articulate voice', I refer to a a voice that can be easily understood by an audience. This does not mean that you lose your accent, and it does not mean that you change the way you talk in your day-to-day life. Aiming for an articulate voice to me, means that you have a voice that you choose to use when you are addressing a crowd, and this voice makes you as easily understood by as many people in that crowd as possible.
+
+When you speak to a crowd, you need to make sure that you are using a voice that enables every single word to be heard first time, every time. As well as dealing with the acoustics of an outdoor space, and the many distractions, your audience have never heard your speech before, and they don't have an easy way to tell you to pause, so that they can process something. So, how do we make ourselves more articulate?
+
+### First, slow down
+
+Like, A LOT. If you watch a recording of actors speaking on stage, and try to copy them, you will realise they are actually speaking far slower than you would in a normal conversation. This is particularly the case with Shakespeare, where the actors have to get across a lot of ideas, emotional highs and lows, and terminology that the audience might not be familliar with. That's similar to what you will be doing when you speak at a protest. 
+
+Practice speaking at half the speed of a normal conversation, while still retaining the rhythms and pitch changes that are habitual to you. 
+
+### Second, take your time over vowels and consonants. 
+
+In English, vowels in words are indicated with the letters: A E I O U (and sometimes 'Y', as in 'rhythm') and consonants are every other letter of the alphabet.
+
+Slowing down will help you articulate your vowels and consonants, and make each word more clear, but you should push this further.
+
+An exercise often used by Shakespearean actors is the following: 
+1. Go through a speech and try to only voice the consonant sounds of each word on the page (You end up sounding like a Klingon). 
+2. Then, go through the speech again, and only say the vowels, (making yourself sound like a weird bird or a monkey or something).
+3. Finally, you do the whole speech once again, reading it normally. You should notice that the words come out of your mouth much more clearly, and slightly exaggerated. You need that quality to make your words carry over a large space.
+
+## Intonation
+
+Intonation can be subjective to each person, but I take it to mean 'the ways in which you vary pitch and rhythm to clarify certain ideas'. There are so many ways to do this, so I will just talk about two: inflection and emphasis.
+
+To **'inflect upwards'** or to **'use an upwards inflection'** means to significantly raise your pitch at a certain point in a sentence to draw attention to an idea that you are expressing. You might even drag the sound out and make it a bit sing-songy, depending on your personality.
+
+To **'emphasise'** is similar, but it involves saying a word slightly louder and slower, with only a slight pitch increase.
+
+You might use intonation naturally, with certain everyday phrases. I have marked where you might intone, in bold:
+
+- **Over** and **over** and **over** again.
+- I don't know what you **mean**!
+- And so, **we** all thought...
+
+Or, it might be that you naturally speak in a monotone, and you don't vary your intonation at all. Whatever the case may be, intonation is an essential tool to be aware of when you need to use your voice to convey information to an audience. Intonation helps break down ideas, and indicate patterns across ideas.
+
+If you're worried you may make yourself sound a bit patronising, and obvious, then, yes, you will, and that's the point. I'm not telling you to speak like this to your friend, over lunch. This is about how to craft a specific kind of voice for a particular communication purpose. When speaking to a crowd, so many things are getting in the way of your message being received, that you need to double down on every strategy that will help you send your message. As improv comedian Roy Janik puts it, 'Clear and Clunky is always better than Smooth and Obscure'.
+
+The exercise I always give to actors who struggle with intonation is the following: Take the sentence below -
+
+I never said she stole my bag.
+
+Read this sentence out over and over, and use intonation on a different word each time.
+
+- I **never** said she stole my bag.
+- I never **said** she stole my bag.
+- I never said **she** stole my bag.
+
+And so on. Listen to how the phrase sounds like it means something slightly different each time. This is why you need to consider how intonation will help you communicate certain ideas in your story or speech. When you watch TV, or when you're out and about, try to notice how different people use intonation in different ways to make a point.
+
+# Participation
+
+Protests often include sections where speakers encourage the listeners to chant, call and respond, or just make noise in reaction to a particular statement. People who show up to a protest are not like a sit-down theatre audience at 2pm on a Saturday. Protestors are expecting and willing to participate, and doing so can be very affirming and morale boosting. So, if you want a chant to happen, you can make it happen quite easily, as long as you make it obvious when you want it to happen, and what you want people to chant.
+
+If you want the audience to chant something, make it short, and obvious. This also makes it easier for the chant to spread throughout the crowd, to people at the back who may not be able to hear you, but can hear other people around them. Just based on my experiences doing comedy and cabaret, audiences are much more likely to participate if it is very obvious what they have to do, and they see other people doing it too.
+
+Framing a chant like 'Repeat after me' , or 'I say x, you say y' makes it obvious. Pointing to the crowd when it is their cue to chant makes it obvious. Hell, even just using a classic chant that lots of people know makes it obvious (e.g 'We're here, we're queer, we will not live in fear!' or 'Trans rights are human rights!')
+
+## Conclusion
+I hope this post has given people some guidance for how to prepare to speak at a protest. These skills are all useful to take into your everyday life too. I have linked some free resources below if you want to continue your learning. I also encourage you to find ways to put yourself in situations where you have to practice these skills. Go to protests, not just for trans rights, but for other causes where we are all fighting the same fight. Also, consider learning more about public speaking, or, try getting involved with choir, comedy, theatre, or improv. 
+
+If you're Nottingham-based, check out my list of [[nottstheatre|ways to get involved with theatre in Nottingham.]] Also, check out my page for [[transresources|Trans Resources]], which has some links to resources on trans voice skills.
+
+Please share this post on social media, to help it reach other people who want to use their voice, but don't know where to start.
+
+Keep speaking up. Keep fighting. Keep advocating.
+
+# Further Resources
+
+- [Patsy Rodenburg - How To Be Present](https://www.youtube.com/watch?v=W9b8O-1tzgQ) A brilliant, short, practical demonstration about how to have stage presence, and connect with an audience. She makes a very interesting comment that every high-security prisoner she works with has incredible stage presence, because they are always on high alert to their surroundings.
+- [Chairman Fred Hampton Speech Collection](https://www.youtube.com/watch?v=tF7_2VckKNQ) A compilation of speeches from the legendary Black Panthers spokesperson, who was assassinated by the FBI at the age of 21.
+- [Sylvia Rivera - Y'all Better Quiet Down](https://www.youtube.com/watch?v=Jb-JIOWUw1o) Iconic speech by trans activist Sylvia Rivera, in support of trans people at a 1973 pride rally in New York, at a time where some members of the gay community were sidelining and scapegoating trans women during the gay civil rights movement.
+- [Our Master's Voices - The language and body language of politics](https://archive.org/details/ourmastersvoices00atkirich) by John Maxwell Atkinson. A (free, online) book on understanding the performance of political speeches, and how politicians use language to make great speeches, and also, to cover their arses.
