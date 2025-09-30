@@ -8,7 +8,10 @@ My theatre knowledge usually intertwines with my fascination with games and syst
 - [[nottstheatre|Nottingham Theatre Resources]] A list of ways to get into theater if you live in Nottingham.
 - [Theatre Crafts Books List](https://archive.org/details/@riewarden/lists/2/theatre-crafts) This is a list of free online Archive.org books about building things for theatre. I continually add to it, but at the moment is has resources for: set-building, costume, prop-making, wearable electronics, simple machines (pulleys, levers, cranks, etc) hand puppets, parade puppets, masks, cardboard furniture, scrap material furniture, papercraft, metalworking.
 
-## Articles about theatre
-- [[imp|Articles about improv]]
+## My articles about theatre
 - [[blg-theatreAI|On Theatre and Artificial Intelligence]]
 - [[good-theatre|How To See More Good Theatre]]
+- [[blg-whprops1|Making Big Silly Cardboard Props]] a three-part series
+- [[blg-loveletter|The theatre needs trans people, and trans people need the theatre]] A manifesto on casting trans people in trans roles, and including trans people more generally.
+- [[blg-prince1|Directing Abigail Thorn's 'The Prince']] The first in a multi-part series on my experience of directing 'The Prince'.
+- [[imp|Articles about improv]]

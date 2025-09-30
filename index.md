@@ -16,21 +16,19 @@ I'm passionate about co-creating work that is entertaining, that captures the sp
 Many links on this site will lead to other pages within the site.
 Links with an arrow next to them lead to [external websites.](https://youtu.be/88et7YlmzTs?si=PoyWFpxD_HFToqvp)
 
-- [[portfolio|My professional theatre portfolio]] A comprehensive overview of my previous experience.
-- [[ratecard|Rate Card]] Hourly and Daily rates for working with me.
-- [[_thoughtghome|My thought garden]] Blogs and essays.
-- [[now|What am I doing right now?]] Personal life updates.
-- [[decouple-quest|My quest to remove Google, Microsoft and other proprietary software from my life]]
+## Work with me
 
+- [[portfolio|Portfolio]] Comprehensive overview of my previous experience.
+- [[ratecard|Rate Card]] Hourly and daily rates for my work.
 
 ## My upcoming events
 - [🎄 The Last Noel - 10th-22nd December - BOOK TICKETS](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?Programme=6983872) I am directing a nostalgic, bittersweet Christmas play at Lace Market Theatre. Very limited tickets!
-- [🎤 Wormhole Weekend - Fri 7th Nov - BOOK TICKETS](https://wegottickets.com/event/666891/) I am co-hosting a special showcase of standups as part of NOttingham Comedy Festival.
+- [🎤 Wormhole Weekend - Fri 7th Nov - BOOK TICKETS](https://wegottickets.com/event/666891/) I am co-hosting a special showcase of standups as part of Nottingham Comedy Festival.
 
 ## Featured Articles
-- [[blg-speakup|⭐How To Speak Up While Trans]] A crash course in using your voice for protest, in a safe and effective way aimed at trans people.
-- [[blg-loveletter|⭐The theatre needs trans people, and trans people need the theatre]] My rant on the Supreme Court ruling and a love letter to all the kickass trans people I couldn't cast to keep fighting and keep theatre-ing.
-- [[blg-whprops1|⭐Making Big Silly Props Out of Cardboard]] A 3-part series sharing everything I've learned about making props for Club Wormhole.
+- [[blg-prince1|⭐ Directing Abigail Thorn's 'The Prince']] The first in a multi-part series on my experience of directing this production.
+- [[blg-loveletter|⭐ The theatre needs trans people, and trans people need the theatre]] My rant on the Supreme Court ruling and a love letter to all the kickass trans people I couldn't cast to keep fighting and keep theatre-ing.
+- [[blg-whprops1|⭐ Making Big Silly Props Out of Cardboard]] A 3-part series sharing everything I've learned about making props for Club Wormhole.
 
 ## Resources
 Lists of local resources for topics I get asked about a lot.
@@ -38,4 +36,8 @@ Lists of local resources for topics I get asked about a lot.
 - [[nottstheatre|Nottingham Theatre Resources]]
 - [[foodredist|Free food and food redistribution schemes in Nottingham]]   
 
+## Other Stuff
+- [[_thoughtghome|My thought garden]] Blogs and essays.
+- [[now|What am I doing right now?]] Personal life updates.
+- [[decouple-quest|My quest to remove Google, Microsoft and other proprietary software from my life]]
   
