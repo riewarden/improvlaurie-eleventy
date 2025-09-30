@@ -4,7 +4,7 @@ date: 2025-09-30
 ---
 
 ![A photo of a standing group of people in period costume, and two people sat in front of them in modern dress. The backdrop is of a real medieval castle wall.](/assets/blg-prince1/Princeblg1-1.jpg)
-
+<small>Photo by <a href="https://www.instagram.com/GraceEdenPhotography/">Grace Eden Photography</a></small></center>
 
 This is the first of a series of blogs where I will talk about my experience of directing 'The Prince', by Abigail Thorn. My production was staged at Lace Market Theatre in July 2025. 
 
@@ -16,6 +16,7 @@ This first blog will focus on how I tackled the Shakespeare side of the play.
 
 ## Dealing with the Shakespeare
 ![A woman with dark hair, sits, and looks upwards. She is wearing a black shirt and her face is framed by a white Elizabethan ruff.](/assets/blg-prince1/Princeblg1-3.jpg)
+<small>Photo by <a href="https://www.instagram.com/GraceEdenPhotography/">Grace Eden Photography</a></small></center>
 
 Just anecdotally, I believe there is a misconception about 'The Prince', where it may be believed that the Shakespearean text is just set dressing, and therefore, the audience doesn't need to understand it. I disagree with this notion, because, first of all, Shakespearean text takes up about 60% of the play, so you're seriously wasting the audience's time if you're not considering it, and, I think it's insulting to both the author and the audience to not do the Shakespeare properly. 
 
@@ -53,6 +54,7 @@ I kept a copy of 'Henry IV Part 1' with me at rehearsals, and noted which parts 
 In Scene 1.7 of 'The Prince', Hal and King Henry have an argument. The stage directions specify that Hal keeps trying to speak, but the King just interrupts him, essentially speaking in a continuous monologue, until he leaves in frustration. After King Henry leaves, Hal goes on a rant in modern text, where he unloads all of his frustrations with his father. Obviously, the modern text is an addition by Thorn, but it isn't the only way that this scene has been transposed and edited in an interesting way, from the original text.
 
 ![An older man wearing a crown and amber regal robes stands, talking to an unseen figure in the foreground, with a stern expression.](/assets/blg-prince1/Princeblg1-5.jpg)
+<small>Photo by <a href="https://www.instagram.com/GraceEdenPhotography/">Grace Eden Photography</a></small></center>
 
 In the original text, (Scene 3.2, in the Arden Shakespeare 1974 version) the King doesn't talk over Hal in a continuous monologue, and there is a seemingly much more equal power balance between them. Both of them volley back and forth exchanging chunks of verse, in a more formal structure.
 
