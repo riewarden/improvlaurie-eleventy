@@ -1,11 +1,19 @@
 ---
 title: Portfolio
 ---
-This is a summary of projects that are most relevant to what I currently offer as a practitioner. To view my official CV and contact details, [Click Here](/assets/cv-june-2024.pdf)
+This is a summary of projects that are most relevant to what I currently offer as a practitioner. To see my CV, please email me at laurence(@)improvlaurie(.)co(.)uk - minus the brackets.
 
 ## Current Projects
 
+### The Last Noel
 
+I am currently directing 'The Last Noel' by Chris Bush, at Lace Market Theatre. Performances are between 10th and 20th of December.
+
+‘The Last Noel’ takes place in the living room of a family who are getting ready for Christmas. They can’t start festivities until the last member of the family arrives, so in the meantime, they treat the audience as their house guests, and tell stories, sing songs, and argue about festive crisps. 
+
+Despite the merry atmosphere, however, there’s a distinct feeling that the family want to avoid explaining to the audience why this might be their ‘Last Noel’.
+
+[Book Tickets](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?Programme=6983872)
 
 ### Trans Voice Workshops
 A series of free monthly 2-hr workshops in which I, and a trained Speech and Language Therapist (specialising in trans voice) teach the basics of altering the gender of one's voice. Half of the workshop covers physical vocal skills, and the other half is about building the confidence to speak in front of others.

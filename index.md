@@ -23,7 +23,8 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 
 
 ## My upcoming events
-- [⭐The Prince: BOOK TICKETS](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?Programme=6719600&Tab=performances) *21-26th July* Come and see my production of *The Prince* by Abigail Thorn. Full details on the link.
+- [🎄 The Last Noel - 10th-22nd December - BOOK TICKETS](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?Programme=6983872) I am directing a nostalgic, bittersweet Christmas play at Lace Market Theatre. Very limited tickets!
+- [🎤 Wormhole Weekend - Fri 7th Nov - BOOK TICKETS](https://wegottickets.com/event/666891/) I am co-hosting a special showcase of standups as part of NOttingham Comedy Festival.
 
 ## Featured Articles
 - [[blg-speakup|⭐How To Speak Up While Trans]] A crash course in using your voice for protest, in a safe and effective way aimed at trans people.
@@ -34,15 +35,6 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 Lists of local resources for topics I get asked about a lot.
 - [[transresources|Trans Resources (For Nottingham and more)]]
 - [[nottstheatre|Nottingham Theatre Resources]]
-- [[foodredist|Free food and food redistribution schemes in Nottingham]]
-
-## My Mastodon Feed
-<a class="mastodon-feed" href="https://zirk.us/@riewarden" data-toot-limit="3">follow me into the Fediverse</a>
-<script type="module" src="https://esm.sh/emfed@1"> </script>
-<div class="center">
- <a href="https://notbyai.fyi/"><img src="/assets/notai.png" alt="badge that indicates this content was not produced by AI" style="border-style:none;max-width:100%;text-align:center"> </a>
- </div>
-   
-   
+- [[foodredist|Free food and food redistribution schemes in Nottingham]]   
 
   
