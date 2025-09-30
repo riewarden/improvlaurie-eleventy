@@ -17,3 +17,6 @@ Add images
 ![](/assets/imagegoeshere)
 
 date format - yyyy-mm-dd
+
+Script for compressing images
+magick *.JPG -strip -interlace Plane -sampling-factor 4:2:0 -quality 85% -resize "70%" -define jpeg:dct-method=float TOThing-%d.jpg
