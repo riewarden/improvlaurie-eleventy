@@ -5,23 +5,34 @@ This is a summary of projects that are most relevant to what I currently offer a
 
 ## Current Projects
 
-### The Prince (At Lace Market Theatre)
-I am directing the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre.
 
-_Auditions are 15th and 17th April 2025._
 
-[Full details on how to audition.](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?EventType=0&Event=6667559)
-
-### Trans Voice Workshops (2024-25 Workshops Now Booking!)
+### Trans Voice Workshops
 A series of free monthly 2-hr workshops in which I, and a trained Speech and Language Therapist (specialising in trans voice) teach the basics of altering the gender of one's voice. Half of the workshop covers physical vocal skills, and the other half is about building the confidence to speak in front of others.
 
-#### 2024-25 Session Dates 
-- ~~20th January~~
-- **17th February** Tickets still available! 
+#### 2025-26 Session Dates 
+Booking not yet live.
 
-These are all Mondays, 6-8pm.
+Leicester (6-8pm)
+- **October 2025** Wednesday 29th
+- **November 2025** Wednesday 26th
+- **January 2026** Wednesday 21st
+- **February 2026** Wednesday 18th
+- **March 2026** Wednesday 18th
+- **April 2026** Wednesday 15th
 
-[Book free tickets here.](https://nottinghamplayhouse.co.uk/project/monthly-trans-voice-workshops/)
+Nottingham (6-8pm)
+- **February 2026** Monday 16th
+- **March 2026** Monday 30th
+- **April 2026** Monday 27th
+- **May 2026** Monday 18th
+- **June 2026** Monday 15th
+- **July 2026** Monday 20th
+
+### Club Wormhole
+A monthly alternative comedy night, showcasing unusual fringe acts from around the country. I am a co-organiser, co-writer and co-host of the show.
+
+_Find out more at the [Club Wormhole Facebook page.](https://www.facebook.com/ClubWormhole)_
 
 ### Some Other Mirror
 
@@ -34,15 +45,13 @@ A continuously developing solo show about transitioning, and shaping one's mascu
 - [[edfringe22|Read about Some Other Mirror at Edinburgh Fringe]]
 - [[SOM|Notes on Some Other Mirror]]
 
-### Club Wormhole
-A monthly alternative comedy night, showcasing unusual fringe acts from around the country. I am a co-organiser, co-writer and co-host of the show.
-
-_Find out more at the [Club Wormhole Facebook page.](https://www.facebook.com/ClubWormhole)_
-
 ### Writing
 Read my longform pieces about theatre and improv [[theatrehub|right here.]]
 
 ## Past Projects
+
+### The Prince (At Lace Market Theatre)
+In early 2025, I directed the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre.
 
 ### City Arts - OUR QUEER FUTURE exhibition
 
