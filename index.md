@@ -16,9 +16,10 @@ I'm passionate about co-creating work that is entertaining, that captures the sp
 Many links on this site will lead to other pages within the site.
 Links with an arrow next to them lead to [external websites.](https://youtu.be/88et7YlmzTs?si=PoyWFpxD_HFToqvp)
 
-- [[portfolio|My professional theatre portfolio]]
-- [[_thoughtghome|My thought garden]]
-- [[now|What am I doing right now?]]
+- [[portfolio|My professional theatre portfolio]] A comprehensive overview of my previous experience.
+- [[ratecard|Rate Card]] Hourly and Daily rates for working with me.
+- [[_thoughtghome|My thought garden]] Blogs and essays.
+- [[now|What am I doing right now?]] Personal life updates.
 - [[decouple-quest|My quest to remove Google, Microsoft and other proprietary software from my life]]
 
 

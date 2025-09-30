@@ -1,7 +1,11 @@
 ---
 title: Portfolio
 ---
-This is a summary of projects that are most relevant to what I currently offer as a practitioner. To see my CV, please email me at laurence(@)improvlaurie(.)co(.)uk - minus the brackets.
+This is a summary of projects that are most relevant to what I currently offer as a practitioner. To see my CV, please email me at 
+
+**laurence(@)improvlaurie(.)co(.)uk** - minus the brackets.
+
+[[ratecard|See my rate card]] which explains what I offer at Hourly and Daily rates.
 
 ## Current Projects
 

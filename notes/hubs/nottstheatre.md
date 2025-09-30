@@ -24,6 +24,7 @@ You should try improv! This is a type of theatre where you make it up as you go 
     - [Encore Performing Arts](https://www.facebook.com/encorenottingham) have started running a play reading group, advertised on Facebook.
     - [Outspoken Acts](https://www.theprideshop.co.uk/contact-us/) is an LGBTQIA+ play reading group. They don't have an online presence, so if you want to get involved, the link goes to the 'Contact' page of their venue, The Pride Shop, who can pass your details on to the right person. Outspoken Acts have a WhatsApp group and mailing list.
   - **Join a writer's group** or participate in writing workshops.
+    - [Script East Mids](https://www.scripteastmids.co.uk/writing-groups) Regularly run workshops, meetups, courses and mentorship, for every level of ability.
     - [Nottingham Playhouse Writer's Room](https://nottinghamplayhouse.co.uk/for-artists/amplify/writers-group/)
     - [Nottingham Writer's Studio Events](https://www.eventbrite.co.uk/cc/workshops-2613409)
     - [Writing East Midlands List of Groups](https://writingeastmidlands.co.uk/for-writers/writing-groups/writing-groups-nottinghamshire/)
