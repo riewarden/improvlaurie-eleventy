@@ -1,22 +1,34 @@
-To build site and preview it locally:
+## To build site and preview it locally:
 npm start
 
-To push new version of site to live:
+## To push new version of site to live:
+
+build the site, as previous
+
 git push origin main 
 
-To add a new page to the site 
+## To add a new page to the site 
 1. Make a .md file somewhere in /notes, or one subfolder under /notes. It won't work properly anywhere else.
+2. add YAML frontmatter - 
+---
+title: Whateva
+date: yyyy-mm-dd
+---
+3. Add a link to it somewhere else on the site.
 
-To change the way pages look 
+## To change the way pages look 
 edit default layout to change the way everything on the whole site looks.
 edit the 'note' layout to change the way things in /notes look
 add CSS on individual pages to tweat individual things.
 specify layout in the YAML to override and assign a different layout to a page.
 
-Add images 
-![](/assets/imagegoeshere)
+## To add images 
 
-date format - yyyy-mm-dd
+1. Compress your images using the ImageMagick script:
+magick *.JPG -strip -interlace Plane -sampling-factor 4:2:0 -quality 85% -resize "70%" -define jpeg:dct-method=float NewImageName-%d.jpg
 
-Script for compressing images
-magick *.JPG -strip -interlace Plane -sampling-factor 4:2:0 -quality 85% -resize "70%" -define jpeg:dct-method=float TOThing-%d.jpg
+2. Add them to a folder named after the page they appear on, in /assets
+
+3. Insert this on the page you want it to appear on:
+![alt text](/assets/imagegoeshere)
+

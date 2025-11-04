@@ -23,10 +23,11 @@ Despite the merry atmosphere, however, there’s a distinct feeling that the fam
 A series of free monthly 2-hr workshops in which I, and a trained Speech and Language Therapist (specialising in trans voice) teach the basics of altering the gender of one's voice. Half of the workshop covers physical vocal skills, and the other half is about building the confidence to speak in front of others.
 
 #### 2025-26 Session Dates 
-Booking not yet live.
+[Booking live for Leicester.](https://www.eventbrite.com/o/leicestershire-lgbtq-centre-96042593783)
+
+But not Nottingham yet!
 
 Leicester (6-8pm)
-- **October 2025** Wednesday 29th
 - **November 2025** Wednesday 26th
 - **January 2026** Wednesday 21st
 - **February 2026** Wednesday 18th
@@ -60,10 +61,14 @@ A continuously developing solo show about transitioning, and shaping one's mascu
 ### Writing
 Read my longform pieces about theatre and improv [[theatrehub|right here.]]
 
+## Additional Training
+- Food Safety Certificate Level 2 (via The Safer Food Group)
+- Carbon Literacy (via The Carbon Literacy Project)
+
 ## Past Projects
 
 ### The Prince (At Lace Market Theatre)
-In early 2025, I directed the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre.
+In early 2025, I directed the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre. Read more about it [[blg-prince1|here.]]
 
 ### City Arts - OUR QUEER FUTURE exhibition
 
