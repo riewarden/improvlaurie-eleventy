@@ -1,5 +1,6 @@
 ---
 title: Now
+date: 2025-03-22
 ---
 - **Reading:** Choosing a Jewish Life. How The FBI Murdered Fred Hampton. The Idiot's Guide To Understanding Judaism. Genesis. The Selected War Memoirs Of Spike Milligan. 
 - **Watching:** SortedFood. Limmy's playthrough of Disco Elysium. Videos about financial forecasting and small business tax.
