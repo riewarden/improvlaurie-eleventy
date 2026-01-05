@@ -54,7 +54,7 @@ _Find out more at the [Club Wormhole Facebook page.](https://www.facebook.com/Cl
 A continuously developing solo show about transitioning, and shaping one's masculine identity, which started development as a Zoom theatre show, made for university coursework, and is currently a touring, in-the-round, live theatre show with multimedia and interactive elements.
 
 - [Watch Some Other Mirror, Zoom, 2021](https://www.youtube.com/watch?v=ONU-EUteyLI)
-- [Watch Some Other Mirror, Nonsuch Studios, 2022](https://www.youtube.com/watch?v=KKcXVdMfVjg)
+- [Watch Some Other Mirror, Nonsuch Studios, 2022](https://fablemosh.vhx.tv/products/some-other-mirror) £10 via FableMosh
 - [[edfringe22|Read about Some Other Mirror at Edinburgh Fringe]]
 - [[SOM|Notes on Some Other Mirror]]
 
