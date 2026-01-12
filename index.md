@@ -22,12 +22,13 @@ Links with an arrow next to them lead to [external websites.](https://youtu.be/8
 - [[ratecard|Rate Card]] Hourly and daily rates for my work.
 
 ## My upcoming events
-- [🎄 The Last Noel - 10th-22nd December - BOOK TICKETS](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?Programme=6983872) I am directing a nostalgic, bittersweet Christmas play at Lace Market Theatre. Very limited tickets!
-- [🎤 Wormhole Weekend - Fri 7th Nov - BOOK TICKETS](https://wegottickets.com/event/666891/) I am co-hosting a special showcase of standups as part of Nottingham Comedy Festival.
+- [🎤Trans Voice Leicester🎤](https://www.eventbrite.co.uk/o/leicester-lgbt-centre-96042593783) Free trans voice sessions running at Leicester LGBT Centre on Jan 15th and Feb 18th 2026
+- [🎭Amplify Seasons🎭](https://nottinghamplayhouse.co.uk/for-artists/amplify/amplify-seasons/amplify-seasons-events/) I am acting in Esther Warren's piece '1994' on 23rd January.
+- [🕳Club Wormhole🕳](https://www.ticketsource.co.uk/clubwormhole) I am co-hosting Club Wormhole, The East Midland's best alternative comedy night, on March 2nd and May 4th. 
 
 ## Featured Articles
+- [[blg-relaxedperf|⭐ Staging a Relaxed Performance On Almost No Budget]] A case study of how I staged a relaxed performance at my local amateur theatre.
 - [[blg-prince1|⭐ Directing Abigail Thorn's 'The Prince']] The first in a multi-part series on my experience of directing this production.
-- [[blg-loveletter|⭐ The theatre needs trans people, and trans people need the theatre]] My rant on the Supreme Court ruling and a love letter to all the kickass trans people I couldn't cast to keep fighting and keep theatre-ing.
 - [[blg-whprops1|⭐ Making Big Silly Props Out of Cardboard]] A 3-part series sharing everything I've learned about making props for Club Wormhole.
 
 ## Resources
