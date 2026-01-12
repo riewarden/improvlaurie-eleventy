@@ -38,7 +38,8 @@ Lists of local resources for topics I get asked about a lot.
 - [[foodredist|Free food and food redistribution schemes in Nottingham]]   
 
 ## Other Stuff
-- [[_thoughtghome|My thought garden]] Blogs and essays.
-- [[now|What am I doing right now?]] Personal life updates.
-- [[decouple-quest|My quest to remove Google, Microsoft and other proprietary software from my life]]
+- [[_thoughtghome|💭 My thought garden]] Blogs and essays.
+- [[now|❗ What am I doing right now?]] Personal life updates.
+- [[decouple-quest|💾 My quest to remove Google, Microsoft and other proprietary software from my life]]
+- [[mousemediatimeline|🐁 Mouse Media Timeline]] a non-comprehensive timeline of every anthropomorphoc depiction of mice throughout human history, as well as relevant 'anthropomorphic mouse cultural flashpoints'.
   
