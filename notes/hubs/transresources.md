@@ -5,12 +5,14 @@ This page contains helpful resources for anyone UK or Nottingham-based who is lo
 ## Nottingham Trans Resources
 - [Notts Trans Hub](https://www.nottstranshub.org/) Nottingham's main trans charity. They have a [Facebook](https://www.facebook.com/nottstranshub/?locale=en_GB) group and Discord server.
   - **Genderphoria** - Group for Nottingham-based trans youth, in collaboration with Notts Trans Hub. Contact Trans Hub for more info.
+- [East Mids Trans Network](https://www.facebook.com/groups/725533476811027) Only has a FB group. A casual mixed social group for trans people in the East Midlands. They organise theatre trips, inclusive spots, movie nights, and more.
 - [Nottingham Center For Transgender Health](https://ncth.nhs.uk/) Gender Identity Clinic serving Nottingham and surrounding areas. Has info on locally available treatments, services, and support groups.
 - [Nottingham Against Transphobia](https://www.facebook.com/NottinghamAgainstTransphobia) (Facebook) Activist group who organise protests in response to transphobia.
 - [Notts Trans Collective](https://www.instagram.com/nottstranscollective/) (Instagram) Trans students society based at University of Nottingham, but events open to all. 
 - [The Health Shop](https://www.healthshopnottingham.co.uk/) Trans-friendly sexual health clinic who are sensitive to people who struggle to access healthcare through typical pathways. 
 - [Nottingham Women's Center](https://www.nottinghamwomenscentre.com/) Has had an official trans-inclusive policy since 1998, but have records of trans people accessing the service going back long before this date. 
-- [Notts Pastel Project](https://www.instagram.com/notts_pastel_project/) (Instagram) Organisation seeking to establish Nottingham as the UK's first Trans Sanctuary City. 
+- [Notts Pastel Project](https://www.instagram.com/notts_pastel_project/) (Instagram) Organisation seeking to establish Nottingham as the UK's first Trans Sanctuary City.
+- [Dolls Dining Co-Op](https://linktr.ee/nottsddc) A transfem led co-operative, providing free food for transfems in Nottingham.
 
 ## General Resources
 ### Figuring stuff out
