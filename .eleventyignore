@@ -4,3 +4,8 @@ CONTRIBUTING.md
 _drafts/
 help.txt
 snippets.txt
+
+
+
+.netlify/
+node_modules/
