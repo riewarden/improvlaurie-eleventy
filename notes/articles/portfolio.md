@@ -9,16 +9,6 @@ This is a summary of projects that are most relevant to what I currently offer a
 
 ## Current Projects
 
-### The Last Noel
-
-I am currently directing 'The Last Noel' by Chris Bush, at Lace Market Theatre. Performances are between 10th and 20th of December.
-
-‘The Last Noel’ takes place in the living room of a family who are getting ready for Christmas. They can’t start festivities until the last member of the family arrives, so in the meantime, they treat the audience as their house guests, and tell stories, sing songs, and argue about festive crisps. 
-
-Despite the merry atmosphere, however, there’s a distinct feeling that the family want to avoid explaining to the audience why this might be their ‘Last Noel’.
-
-[Book Tickets](https://lacemarkettheatre.co.uk/LaceMarketTheatre.dll/WhatsOn?Programme=6983872)
-
 ### Trans Voice Workshops
 A series of free monthly 2-hr workshops in which I, and a trained Speech and Language Therapist (specialising in trans voice) teach the basics of altering the gender of one's voice. Half of the workshop covers physical vocal skills, and the other half is about building the confidence to speak in front of others.
 
@@ -67,8 +57,27 @@ Read my longform pieces about theatre and improv [[theatrehub|right here.]]
 
 ## Past Projects
 
+### The Last Noel
+![An older lady in a blue dress sits on a sofa, smiling and holding a glass of brandy.](/assets/lastnoel/lastnoel-lesley.jpg)
+<small>Photo by <a href="https://www.instagram.com/graceedenphotographynottingham/">Grace Eden Photography</a></small></center>
+
+In December 2025, I directed Chris Bush's play with music, 'The Last Noel'. This production also featured Lace Market Theatre's first ever relaxed performance. [[blg-relaxedperf|Read more about it here.]]
+
+**Reviews of my production of 'The Last Noel'**
+- [Left Lion](https://leftlion.co.uk/features/2025/12/review-the-last-noel-at-the-lace-market-theatre/)
+- [Kev Castle](https://kevcastletheatrereviews.blogspot.com/2025/12/the-last-noel-by-chris-bush-nottingham.html)
+
 ### The Prince (At Lace Market Theatre)
+![A woman in a medieval blue dress with her hands on the chest of a woman dressed in armour](/assets/blg-prince1/Princeblg1-4.jpg)
+<small>Photo by <a href="https://www.instagram.com/graceedenphotographynottingham/">Grace Eden Photography</a></small></center>
+
 In early 2025, I directed the first UK off-West-End production of 'The Prince', by Abigail Thorn, at Lace Market Theatre. Read more about it [[blg-prince1|here.]]
+
+**Reviews of my production of 'The Prince'**
+
+- [East Midlands Theatre](https://eastmidlandstheatre.com/tag/the-prince/) ⭐⭐⭐⭐⭐
+- [Left Lion](https://leftlion.co.uk/features/2025/07/review-the-prince-at-lace-market-theatre/)
+- [Kev Castle](https://kevcastletheatrereviews.blogspot.com/2025/07/the-prince-by-abigail-thorn.html)
 
 ### City Arts - OUR QUEER FUTURE exhibition
 
