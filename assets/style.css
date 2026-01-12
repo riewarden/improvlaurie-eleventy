@@ -210,6 +210,56 @@ small {font-size: 0.8em;}
     display: block;
 }
 
+/* details & summary */
+
+/* Light styling for presentation */
+details {
+    margin-left: 3%;
+  border-block-end: 1px solid #000;
+  margin-block: .5rem;
+  padding-block: .5rem;
+}
+
+summary {
+  /* Pin the custom marker to the container */
+  position: relative;
+  /* Register summary as an anchor element */
+  anchor-name: --summary;
+  
+  &::marker {
+    content: "";
+  }
+  
+  &::before,
+  &::after {
+    /* Custom marker dimensions */
+    content: "";
+    border-block-start: 3px solid rgb(0, 0, 0);
+    height: 0;
+    width: 1rem;
+    
+    /* Positions the lines */
+    inset-block-start: 50%;
+    inset-inline-end: 0;
+    
+    /* Anchor the shape to the summary */
+    position: absolute;
+    position-anchor: --summary;
+    position-area: top end;
+  }
+  
+  /* Rotate just the ::after line to create a "+"" shape */
+  &::after {
+    transform: rotate(90deg);
+    transform-origin: 50%;
+  }
+}
+
+/* Rotate the line when open */
+details[open] summary::after {
+  transform: rotate(0deg);
+}
+
 /* toots */
 
 /*https://github.com/sampsyo/emfed/blob/main/toots.css */
