@@ -104,11 +104,11 @@ An author called **Robert C. O'Brien** visits Calhoun's lab at The National Inst
 
 **'The Great Mouse Detective' is released by Disney.**
 
-**'An American Tail' is released by Don Bluth Entertainment.** Don Bluth suggests the main character should have an American name but Steven Spielberg names him after his Jewish grandfather, Fievel. 
+**[[americantail|'An American Tail']] is released by Don Bluth Entertainment.** Don Bluth suggests the main character should have an American name but Steven Spielberg names him after his Jewish grandfather, Fievel. 
 
 Despite dodging union laws (and by 'dodging' I mean: Bluth moved the whole studio to Ireland to evade animation union laws) 'An American Tail' is a huge success. On an $9mil budget, the film makes $84mil at box office, and becomes the highest-grossing non-Disney film at the time, and beating Disney's own mouse film of that year at box office takings (which only made $38.7mil.) [(source)](https://www.youtube.com/watch?v=WKCLqeh0fjw)
 
-**The first volume of 'Maus' by Art Spiegelman is published by Pantheon Books.** This is a graphic novel based on Spiegelman's father's real-life experiences as a holocaust survivor. Spiegelman believes that his former classmate, Don Bluth, plagiarised his idea of depicting persecuted Jews as mice, but never presses charges. [(source)](https://ew.com/article/1991/12/13/art-spiegelman-produces-best-seller/)
+**The first volume of 'Maus' by Art Spiegelman is published by Pantheon Books.** This is a graphic novel based on Spiegelman's father's real-life experiences as a holocaust survivor. Spiegelman believes that his former classmate from The School of Visual Arts, Don Bluth, plagiarised his idea of depicting persecuted Jews as mice, but never presses charges. [(source)](https://ew.com/article/1991/12/13/art-spiegelman-produces-best-seller/)
 
 
 #### 1987
@@ -134,4 +134,4 @@ Despite dodging union laws (and by 'dodging' I mean: Bluth moved the whole studi
 **'Stuart Little' film released by Columbia Pictures.** This was a film adaptation of EB White's 1945 book. Producer Douglas Wick says of the film's concept: *"Every child feels like a different species than his parents. As a child, you're always looking at the world at knee-level, and it seems scary and overwhelming. Watching the heroics of someone three inches tall can be very inspiring."* [(source)](https://www.cinema.com/articles/222/stuart-little-production-notes.phtml)
 
 #### 2024
-**Mickey Mouse enters public domain.**
+**'Steamboat Willie' enters public domain.**
