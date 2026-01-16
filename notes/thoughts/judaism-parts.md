@@ -16,4 +16,3 @@ things I want to look into:
 
 - putting up a mezuzah
 - clothing
-- 

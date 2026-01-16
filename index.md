@@ -40,6 +40,6 @@ Lists of local resources for topics I get asked about a lot.
 ## Other Stuff
 - [[_thoughtghome|💭 My thought garden]] Blogs and essays.
 - [[now|❗ What am I doing right now?]] Personal life updates.
-- [[decouple-quest|💾 My quest to remove Google, Microsoft and other proprietary software from my life]]
+- [[decouple-quest|💾 Decouple Quest]] My journey as an arts freelancer, to move away from Microsoft, Google etc. to Free Open Source Software.
 - [[mousemediatimeline|🐁 Mouse Media Timeline]] a non-comprehensive timeline of every anthropomorphic depiction of mice throughout human history, as well as relevant 'anthropomorphic mouse cultural flashpoints'.
   
