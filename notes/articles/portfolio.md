@@ -9,6 +9,16 @@ This is a summary of projects that are most relevant to what I currently offer a
 
 ## Current Projects
 
+### Theatre Director
+I am a theatre director, and most recently, I directed 'The Last Noel' and 'The Prince' at Lace Market Theatre. you can read more about these shows in the 'Past Projects' section.
+
+#### Cast and crew testimonials about working with me as a director:
+- *"Laurie is an absolute dream to work with. He is a force of nature, yet his directing style is calm, measured, and quietly confident—qualities that he effortlessly instils in his actors."* - Maureen Nwabueze, Actor [[test-maureen|(Full Testimonial)]]
+- *"Laurie struck the perfect balance of working us hard but keeping it fun and looking after all of us emotionally. I felt like I was in very good hands."* - Jess Hall, Actor
+- *"Laurie was always so humble and pleasant to work with, [...] he coaxed out the best in me."* - Ami Veera, Actor [[test-ami|(Full Testimonial)]]
+- *"It was an absolute delight to work with Laurie. I have worked with a lot of directors and Laurie is one of the few who recognise that putting the well being of the cast and crew first inspires growth and creativity, which in turn, results in a brilliant production."* - Rebecca Steele, Stage Manager [[test-bex|(Full Testimonial)]]
+- *"You could see how Laurie was taking the individual strengths (and weaknesses) of the members of his cast, and using these properties to realise his vision. It is hard to define precisely, but somehow he gave each of us an inspiration not merely to act out our characters, but meld them into his overall vision, so that the whole was truly greater than the sum of the individual parts."* - Bernard Whelan, Actor [[test-bernard|(Full Testimonial)]]
+
 ### Trans Voice Workshops
 A series of free monthly 2-hr workshops in which I, and a trained Speech and Language Therapist (specialising in trans voice) teach the basics of altering the gender of one's voice. Half of the workshop covers physical vocal skills, and the other half is about building the confidence to speak in front of others.
 
